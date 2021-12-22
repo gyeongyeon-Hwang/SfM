@@ -1,0 +1,6030 @@
+Start testing: Dec 22 22:19 KST
+----------------------------------------------------------
+1/85 Testing: openMVG_test_Camera_Pinhole
+1/85 Test: openMVG_test_Camera_Pinhole
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Pinhole"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Pinhole" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36Cameras_Radial_disto_undisto_K1_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Pinhole" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Pinhole" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/85 Testing: openMVG_test_Camera_Pinhole_Radial
+2/85 Test: openMVG_test_Camera_Pinhole_Radial
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Pinhole_Radial"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Pinhole_Radial" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36Cameras_Radial_disto_undisto_K3_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 36Cameras_Radial_disto_undisto_K1_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   1.60 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Pinhole_Radial" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Pinhole_Radial" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/85 Testing: openMVG_test_Camera_Pinhole_Brown
+3/85 Test: openMVG_test_Camera_Pinhole_Brown
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Pinhole_Brown"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Pinhole_Brown" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 35Cameras_Brown_disto_undisto_T2_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Pinhole_Brown" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Pinhole_Brown" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/85 Testing: openMVG_test_Camera_Pinhole_Fisheye
+4/85 Test: openMVG_test_Camera_Pinhole_Fisheye
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Pinhole_Fisheye"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Pinhole_Fisheye" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 42Cameras_Fisheye_disto_undisto_Fisheye_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Pinhole_Fisheye" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Pinhole_Fisheye" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/85 Testing: openMVG_test_Camera_Spherical
+5/85 Test: openMVG_test_Camera_Spherical
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Spherical"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Spherical" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36Cameras_Spherical_disto_undisto_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Spherical" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Spherical" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/85 Testing: openMVG_test_Camera_Subset_Parametrization
+6/85 Test: openMVG_test_Camera_Subset_Parametrization
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_Subset_Parametrization"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_Subset_Parametrization" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 43Cameras_subset_parametrization_fisheye_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 49Cameras_subset_parametrization_pinhole_brown_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 53Cameras_subset_parametrization_pinhole_radial_k3_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 53Cameras_subset_parametrization_pinhole_radial_k1_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 43Cameras_subset_parametrization_pinhole_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_Subset_Parametrization" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_Subset_Parametrization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/85 Testing: openMVG_test_Camera_IO
+7/85 Test: openMVG_test_Camera_IO
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Camera_IO"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/cameras
+"openMVG_test_Camera_IO" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 29Camera_IO_ceral_SaveRead_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Camera_IO" end time: Dec 22 22:19 KST
+"openMVG_test_Camera_IO" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/85 Testing: openMVG_test_kmeans
+8/85 Test: openMVG_test_kmeans
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_kmeans"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/clustering
+"openMVG_test_kmeans" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 38clustering_threeClustersEigenVecf_Test
+
+Centers with kmean init type(0): 
+-0.00230606  0.00189686  0.00671708    0.024665   0.0148846  -0.0111829
+-4.99712 -4.98386 -4.98881 -4.99388 -5.00184 -5.01765
+4.98932 4.98634 4.99406 5.02585 4.99002 4.99778
+Centers with kmean init type(1): 
+-0.00230606  0.00189686  0.00671708    0.024665   0.0148846  -0.0111829
+-4.99712 -4.98386 -4.98881 -4.99388 -5.00184 -5.01765
+4.98932 4.98634 4.99406 5.02585 4.99002 4.99778
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37clustering_threeClustersEigenVec_Test
+
+Centers with kmean init type(0): 
+-0.00230609  0.00189685  0.00671706    0.024665   0.0148847  -0.0111829
+-4.99711 -4.98385  -4.9888 -4.99386 -5.00182 -5.01766
+4.98931 4.98633 4.99405 5.02585 4.99001 4.99777
+Centers with kmean init type(1): 
+-0.00230609  0.00189685  0.00671706    0.024665   0.0148847  -0.0111829
+-4.99711 -4.98385  -4.9888 -4.99386 -5.00182 -5.01766
+4.98931 4.98633 4.99405 5.02585 4.99001 4.99777
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 38clustering_threeClustersStdVector_Test
+
+Centers with kmean init type(0): 
+0.0215844 0.00667105 0.000723333 -0.00991516 -0.00606222 -0.0092538 0.00742225 -0.00301995 -0.0067406 -0.014354 0.00152565 -0.0142549 
+-5.00216 -4.98356 -5.00223 -4.98385 -5.01441 -5.01211 -5.00565 -5.01396 -4.99251 -4.98417 -4.9974 -5.00778 
+5.01242 4.99239 5.00505 5.02189 5.01521 4.9914 4.99552 4.98033 5.00364 5.01933 4.99762 4.99488 
+Centers with kmean init type(1): 
+0.0215844 0.00667105 0.000723333 -0.00991516 -0.00606222 -0.0092538 0.00742225 -0.00301995 -0.0067406 -0.014354 0.00152565 -0.0142549 
+-5.00216 -4.98356 -5.00223 -4.98385 -5.01441 -5.01211 -5.00565 -5.01396 -4.99251 -4.98417 -4.9974 -5.00778 
+5.01242 4.99239 5.00505 5.02189 5.01521 4.9914 4.99552 4.98033 5.00364 5.01933 4.99762 4.99488 
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37clustering_threeClustersStdArray_Test
+
+Centers with kmean init type(0): 
+-0.0224096 -0.00442778 0.0251761 -0.000853222 0.00190384 
+-4.99266 -4.99926 -4.98557 -5.00959 -5.00481 
+5.00796 5.01013 5.00294 5.00116 4.9994 
+Centers with kmean init type(1): 
+-0.0224096 -0.00442778 0.0251761 -0.000853222 0.00190384 
+-4.99266 -4.99926 -4.98557 -5.00959 -5.00481 
+5.00796 5.01013 5.00294 5.00116 4.9994 
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33clustering_threeClustersVec3_Test
+
+Centers with kmean init type(0): 
+ 0.0137033 -0.0139348 0.00295981
+-4.99658 -4.99836 -4.99927
+ 5.0056 5.01269 4.99282
+Centers with kmean init type(1): 
+ 0.0137033 -0.0139348 0.00295981
+-4.99658 -4.99836 -4.99927
+ 5.0056 5.01269 4.99282
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33clustering_threeClustersVec2_Test
+
+Centers with kmean init type(0): 
+0.00543374 0.00701508
+-4.98399  -5.0113
+4.99083 5.00891
+Centers with kmean init type(1): 
+0.00543374 0.00701508
+-4.98399  -5.0113
+4.99083 5.00891
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_kmeans" end time: Dec 22 22:19 KST
+"openMVG_test_kmeans" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/85 Testing: openMVG_test_exif_IO
+9/85 Test: openMVG_test_exif_IO
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_exif_IO"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/exif
+"openMVG_test_exif_IO" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 44Matching_Exif_IO_easyexif_Read_GPS_Data_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39Matching_Exif_IO_easyexif_ReadData_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 51Matching_Exif_IO_easyexif_ReadData_invalidFile_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_exif_IO" end time: Dec 22 22:19 KST
+"openMVG_test_exif_IO" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/85 Testing: openMVG_test_ParseDatabase
+10/85 Test: openMVG_test_ParseDatabase
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_ParseDatabase"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/exif/sensor_width_database
+"openMVG_test_ParseDatabase" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 38Matching_ParseDatabaseCanon_EOS_M_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40Matching_ParseDatabaseCanon_IXUS_70_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42Matching_ParseDatabaseCanon_EOS_1100D_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 47Matching_ParseDatabaseCanon_EOS_5D_Mark_II_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 41Matching_ParseDatabaseCanon_EOS_550D_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35Matching_ParseDatabaseNotExist_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34Matching_ParseDatabaseA710_IS_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32Matching_ParseDatabaseSD900_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27Matching_ValidDatabase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 29Matching_InvalidDatabase_Test
+
+ERROR: [ParseDatabase.hpp:52] Cannot read the database file: /home/hgy/PycharmProjects/sfm/openMVG/openMVG/src/openMVG/exif/sensor_width_database/
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_ParseDatabase" end time: Dec 22 22:19 KST
+"openMVG_test_ParseDatabase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/85 Testing: openMVG_test_features
+11/85 Test: openMVG_test_features
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_features"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features
+"openMVG_test_features" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 24descriptorIO_BINARY_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 23descriptorIO_ASCII_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20featureIO_ASCII_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32featureIO_NON_EXISTING_FILE_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_features" end time: Dec 22 22:19 KST
+"openMVG_test_features" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/85 Testing: openMVG_test_image_describer
+12/85 Test: openMVG_test_image_describer
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_describer"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features
+"openMVG_test_image_describer" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36Image_describer_sift_anatomy_IO_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34Image_describer_akaze_mldb_IO_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34Image_describer_akaze_surf_IO_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_describer" end time: Dec 22 22:19 KST
+"openMVG_test_image_describer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/85 Testing: openMVG_test_akaze
+13/85 Test: openMVG_test_akaze
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_akaze"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features/akaze
+"openMVG_test_akaze" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 37AKAZE_AKAZE_Image_describer_MLDB_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34AKAZE_AkazeImageDescriberLiop_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34AKAZE_AkazeImageDescriberSurf_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 21AKAZE_EmptyImage_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_akaze" end time: Dec 22 22:19 KST
+"openMVG_test_akaze" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/85 Testing: openMVG_test_mser
+14/85 Test: openMVG_test_mser
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_mser"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features/mser
+"openMVG_test_mser" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 30MSER_Extraction_Synthetic_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20MSER_Extraction_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_mser" end time: Dec 22 22:19 KST
+"openMVG_test_mser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/85 Testing: openMVG_test_sift
+15/85 Test: openMVG_test_sift
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sift"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features/sift
+"openMVG_test_sift" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 20Sift_EmptyImage_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42Sift_Keypoint_DetectionAndDescription_Test
+
+Octave computation started
+Computed octave : 0
+Computed octave : 1
+Computed octave : 2
+Computed octave : 3
+
+#Keypoints: 461
+OpenMVG sift: 108ms
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40GaussianScaleSpace_OctaveGeneration_Test
+
+Octave computation started
+Computed octave : 0
+Computed octave : 1
+Computed octave : 2
+Computed octave : 3
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sift" end time: Dec 22 22:19 KST
+"openMVG_test_sift" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/85 Testing: openMVG_test_tbmr
+16/85 Test: openMVG_test_tbmr
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_tbmr"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/features/tbmr
+"openMVG_test_tbmr" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 20TBMR_Extraction_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_tbmr" end time: Dec 22 22:19 KST
+"openMVG_test_tbmr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/85 Testing: openMVG_graph_test_connectedComponent
+17/85 Test: openMVG_graph_test_connectedComponent
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_graph_test_connectedComponent"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/graph
+"openMVG_graph_test_connectedComponent" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 35Subgraphs_CC_Subgraph_CC_count_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42exportGraphToMapSubgraphs_CC_Subgraph_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 38connectedComponents_TwoCC_Parsing_Test
+
+CC id 	node id:
+0	3
+0	2
+1	1
+1	0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30connectedComponents_TwoCC_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30connectedComponents_OneCC_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30connectedComponents_Empty_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_graph_test_connectedComponent" end time: Dec 22 22:19 KST
+"openMVG_graph_test_connectedComponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/85 Testing: openMVG_graph_test_triplet_finder
+18/85 Test: openMVG_graph_test_triplet_finder
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_graph_test_triplet_finder"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/graph
+"openMVG_graph_test_triplet_finder" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 35TripletFinder_test_for_triplet_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37TripletFinder_test_three_triplet_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35TripletFinder_test_two_triplet_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35TripletFinder_test_one_triplet_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34TripletFinder_test_no_triplet_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_graph_test_triplet_finder" end time: Dec 22 22:19 KST
+"openMVG_graph_test_triplet_finder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/85 Testing: openMVG_test_color_gradient
+19/85 Test: openMVG_test_color_gradient
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_color_gradient"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/graphics
+"openMVG_test_color_gradient" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 31ColorGradient_GradientDemo_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 29ColorGradient_BoundCheck_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_color_gradient" end time: Dec 22 22:19 KST
+"openMVG_test_color_gradient" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/85 Testing: openMVG_test_image
+20/85 Test: openMVG_test_image
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 25Image_ImageConverter_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 21Image_PixelTypes_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 16Image_Basis_Test
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+After
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+         
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image" end time: Dec 22 22:19 KST
+"openMVG_test_image" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/85 Testing: openMVG_test_image_drawing
+21/85 Test: openMVG_test_image_drawing
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_drawing"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image_drawing" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 47ImageDrawing_DrawLine_PointOutsideTheImage_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32ImageDrawing_RotatedEllipse_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25ImageDrawing_Ellipse_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24ImageDrawing_Circle_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25ImageDrawing_Lines45_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31ImageDrawing_Scanlines_RGB_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27ImageDrawing_Scanlines_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_drawing" end time: Dec 22 22:19 KST
+"openMVG_test_image_drawing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/85 Testing: openMVG_test_image_integral
+22/85 Test: openMVG_test_image_integral
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_integral"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image_integral" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 28integral_image_BlockSum_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 23integral_image_sum_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25integral_image_empty_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_integral" end time: Dec 22 22:19 KST
+"openMVG_test_image_integral" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/85 Testing: openMVG_test_image_io
+23/85 Test: openMVG_test_image_io
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_io"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image_io" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 27ImageHeader_AllFormats_Test
+
+Testing:img.jpg
+Testing:img.png
+Testing:img.tif
+Testing:img.png
+Testing:img.pgm
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26ImageIOTest_Tiff_RGBA_Test
+
+TIFFReadDirectory: Warning, Sum of Photometric type-related color channels and ExtraSamples doesn't match SamplesPerPixel. Defining non-color channels as ExtraSamples..
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25ImageIOTest_Tiff_RGB_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26ImageIOTest_Tiff_Gray_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20ImageIOTest_Ppm_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 16ReadPnm_Ppm_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20ImageIOTest_Pgm_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24ReadPnm_PgmComments_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 16ReadPnm_Pgm_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20ImageIOTest_Jpg_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 29ImageIOTest_InvalidFiles_Test
+
+ERROR: [image_io.cpp:110] Couldn't open /home/hgy/PycharmProjects/sfm/openMVG/openMVG/src/openMVG/image/donotexist.jpg fopen returned 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30ImageIOTest_Png_Out_Color_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24ImageIOTest_Png_Out_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24GetFormat_filenames_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27ReadPng_Png_Monochrome_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 22ReadPng_Png_Color_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27ReadJpg_Jpg_Monochrome_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 22ReadJpg_Jpg_Color_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_io" end time: Dec 22 22:19 KST
+"openMVG_test_image_io" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/85 Testing: openMVG_test_image_filtering
+24/85 Test: openMVG_test_image_filtering
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_filtering"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image_filtering" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 32Image_Convolution_Sobel_X_Y_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33Image_Convolution_Scharr_X_Y_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 36Image_Convolution_MeanBoxFilter_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 46Image_Convolution_MeanBoxFilter_Separable_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 22Image_Convolution_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_filtering" end time: Dec 22 22:19 KST
+"openMVG_test_image_filtering" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/85 Testing: openMVG_test_image_resampling
+25/85 Test: openMVG_test_image_resampling
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_image_resampling"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/image
+"openMVG_test_image_resampling" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 29Ressampling_SampleRotate_Test
+
+/home/hgy/PycharmProjects/sfm/openMVG/openMVG/src/openMVG/image/image_test/lena.png
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35Ressampling_SampleSamePosition_Test
+
+/home/hgy/PycharmProjects/sfm/openMVG/openMVG/src/openMVG/image/image_test/lena.png
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   3.75 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_image_resampling" end time: Dec 22 22:19 KST
+"openMVG_test_image_resampling" time elapsed: 00:00:03
+----------------------------------------------------------
+
+26/85 Testing: openMVG_test_linearProgramming
+26/85 Test: openMVG_test_linearProgramming
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_linearProgramming"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming
+"openMVG_test_linearProgramming" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 43linearProgramming_osiclp_sparse_sample_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42linearProgramming_osiclp_dense_sample_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_linearProgramming" end time: Dec 22 22:19 KST
+"openMVG_test_linearProgramming" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/85 Testing: openMVG_lInftyCV_test_triangulation
+27/85 Test: openMVG_lInftyCV_test_triangulation
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_triangulation"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_triangulation" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 43lInfinityCV_Triangulation_OSICLPSOLVER_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_triangulation" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_triangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/85 Testing: openMVG_lInftyCV_test_resection
+28/85 Test: openMVG_lInftyCV_test_resection
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_resection"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_resection" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 32Resection_L_Infinity_OSICLP_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_resection" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_resection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/85 Testing: openMVG_lInftyCV_test_resection_robust
+29/85 Test: openMVG_lInftyCV_test_resection_robust
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_resection_robust"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_resection_robust" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 43Resection_L_Infinity_Robust_OneOutlier_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44Resection_L_Infinity_Robust_OutlierFree_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   1.96 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_resection_robust" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_resection_robust" time elapsed: 00:00:01
+----------------------------------------------------------
+
+30/85 Testing: openMVG_lInftyCV_test_global_translations_fromTriplets
+30/85 Test: openMVG_lInftyCV_test_global_translations_fromTriplets
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_global_translations_fromTriplets"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_global_translations_fromTriplets" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 54translation_averaging_globalTi_from_tijs_Triplets_Test
+
+Found solution with gamma = -1.17689e-12
+
+Camera centers (Computed): 
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_global_translations_fromTriplets" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_global_translations_fromTriplets" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/85 Testing: openMVG_lInftyCV_test_global_translations_fromTij
+31/85 Test: openMVG_lInftyCV_test_global_translations_fromTij
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_global_translations_fromTij"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_global_translations_fromTij" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 45translation_averaging_globalTi_from_tijs_Test
+
+Found solution with gamma = -1.17689e-12
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_global_translations_fromTij" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_global_translations_fromTij" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/85 Testing: openMVG_lInftyCV_test_tijsAndXis
+32/85 Test: openMVG_lInftyCV_test_tijsAndXis
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_tijsAndXis"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_tijsAndXis" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 53Translation_Structure_L_Infinity_OSICLP_SOLVER_K_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 51Translation_Structure_L_Infinity_OSICLP_SOLVER_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_tijsAndXis" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_tijsAndXis" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/85 Testing: openMVG_lInftyCV_test_tijsAndXis_outlier
+33/85 Test: openMVG_lInftyCV_test_tijsAndXis_outlier
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_lInftyCV_test_tijsAndXis_outlier"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/linearProgramming/lInfinityCV
+"openMVG_lInftyCV_test_tijsAndXis_outlier" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 65Translation_Structure_L_Infinity_Noisy_Outlier_OSICLP_SOLVER_Test
+
+
+Bisection returns : 
+1Found solution:
+0 0 0 448.242 210.952 0.421903 879.758 620.204 1.24041 360.649 620.204 1.24041 -26.3387 210.952 0.421903 0.0285974 -0.00887856 -0.326467 0.025088 0.0346046 -0.37569 -0.0138518 0.0225484 -0.368947 0.00453692 -0.00190009 -0.339432 -0.0113667 0.00112653 -0.312249 3.26467 -2.49482e-09 0.673533 0 -2.8663e-09 0.62431 4.45757e-09 1.45994e-09 0.631053 0 -2.58967e-09 0.660568 -4.9563e-08 0 0.687751 0 0 0.357334 -2.99387e-08 -2.02439e-08 0.318749 -5.36094e-09 0 0.29733 1.06587e-09 -5.10023e-09 0.331497 -5.0299e-09 -5.03708e-09 0.340718 0 -1.01122e-08 0 1.0325e-09 0 0.0304519 0 0 0 -7.69902e-09 -7.24343e-09 0 -2.82211e-09 0 0 -7.95279e-09 -7.9526e-09 0 -1.81462e-08 -7.68069e-09 0 0 -1.07867e-08 0.0175973 -1.33937e-08 8.12678 0 0 -9.72937e-09 0 -1.75068e-08 -3.43012e-08 0.318587 -5.45683e-09 0 0.284757 -5.21783e-09 0 0.316098 -5.14722e-09 0 0.32535 -4.91243e-09 -2.08416e-08 0.356119 
+Residual : 
+
+Camera : 0 	:5	4.16499e-08	1.56489e-08	4.19815e-08	7.74761e-08	
+
+Camera : 1 	:6.04575e-09	2.92018e-08	3.81473e-09	4.61185e-09	5.51381e-12	
+
+Camera : 2 	:5.90009e-09	8.16192e-09	1.82206e-08	2.25725e-10	3.18462e-09	
+
+Camera : 3 	:8.52651e-14	5.19776e-09	2.33663e-09	4	7.58172e-09	
+
+Camera : 4 	:2.98369e-08	1.15033e-08	6.35123e-09	1.52078e-08	1.2367e-08	
+
+Residual mean in not noisy measurement: 6.25832e-09
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_lInftyCV_test_tijsAndXis_outlier" end time: Dec 22 22:19 KST
+"openMVG_lInftyCV_test_tijsAndXis_outlier" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/85 Testing: openMVG_geodesy_test_geodesy
+34/85 Test: openMVG_geodesy_test_geodesy
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_geodesy_test_geodesy"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geodesy
+"openMVG_geodesy_test_geodesy" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 23GEODESY_LLA_TO_UTM_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31GEODESY_LLA_TO_ECEF_TO_LLA_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_geodesy_test_geodesy" end time: Dec 22 22:19 KST
+"openMVG_geodesy_test_geodesy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/85 Testing: openMVG_test_convex_hull
+35/85 Test: openMVG_test_convex_hull
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_convex_hull"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_convex_hull" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 39ConvexHull_Random_Point_ConvexHull_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24ConvexHull_OnePoint_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20ConvexHull_Line_Test
+
+ERROR: [convex_hull.cpp:79] A point or line does not have any surface.
+ERROR: [convex_hull.cpp:79] A point or line does not have any surface.
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 21ConvexHull_Empty_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_convex_hull" end time: Dec 22 22:19 KST
+"openMVG_test_convex_hull" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/85 Testing: openMVG_test_rigid_transformation3D_srt
+36/85 Test: openMVG_test_rigid_transformation3D_srt
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_rigid_transformation3D_srt"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_rigid_transformation3D_srt" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 49SRT_precision_Experiment_ScaleRotTranslation_Test
+
+
+Scale 2
+Rot 
+ 0.788473 -0.539424   0.29552
+ 0.601843  0.775733 -0.189796
+-0.126864  0.327506  0.936293
+t  0.5 -0.3 0.38
+GT
+Scale 2
+Rot 
+ 0.788473 -0.539424   0.29552
+ 0.601843  0.775733 -0.189796
+-0.126864  0.327506  0.936293
+t  0.5 -0.3 0.38
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 41SRT_precision_Experiment_ScaleAndRot_Test
+
+
+Scale 2
+Rot 
+ 0.788473 -0.539424   0.29552
+ 0.601843  0.775733 -0.189796
+-0.126864  0.327506  0.936293
+t  7.68073e-17 -8.03364e-17 -2.27044e-17
+GT
+Scale 2
+Rot 
+ 0.788473 -0.539424   0.29552
+ 0.601843  0.775733 -0.189796
+-0.126864  0.327506  0.936293
+t 0 0 0
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39SRT_precision_Experiment_ScaleOnly_Test
+
+
+Scale 2
+Rot 
+           1  9.48407e-17  5.76987e-18
+-3.04366e-17            1 -1.55223e-17
+-8.79704e-17 -1.18599e-17            1
+t -9.54732e-17 -4.18596e-18   6.0192e-17
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_rigid_transformation3D_srt" end time: Dec 22 22:19 KST
+"openMVG_test_rigid_transformation3D_srt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/85 Testing: openMVG_test_plane_estimation_kernel
+37/85 Test: openMVG_test_plane_estimation_kernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_plane_estimation_kernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_plane_estimation_kernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 64Kernel_RotatedGrid_RobustEstimation_Angular_Metric_ACRANSAC_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 55Kernel_RotatedGrid_RobustEstimation_Angular_Metric_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 56Kernel_RotatedGrid_RobustEstimation_Distance_Metric_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26Kernel_SolverAndError_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_plane_estimation_kernel" end time: Dec 22 22:19 KST
+"openMVG_test_plane_estimation_kernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/85 Testing: openMVG_test_half_space_intersection
+38/85 Test: openMVG_test_half_space_intersection
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_half_space_intersection"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_half_space_intersection" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 20HALF_PLANE_Side_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33HALF_PLANE_EmptyIntersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32HALF_PLANE_ExistingSubspace_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_half_space_intersection" end time: Dec 22 22:19 KST
+"openMVG_test_half_space_intersection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/85 Testing: openMVG_test_frustum_intersection
+39/85 Test: openMVG_test_frustum_intersection
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_frustum_intersection"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_frustum_intersection" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 31frustum_empty_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25frustum_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_frustum_intersection" end time: Dec 22 22:19 KST
+"openMVG_test_frustum_intersection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/85 Testing: openMVG_test_frustum_box_intersection
+40/85 Test: openMVG_test_frustum_box_intersection
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_frustum_box_intersection"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/geometry
+"openMVG_test_frustum_box_intersection" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 32box_frustum_no_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 29box_frustum_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25box_box_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27box_point_intersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_frustum_box_intersection" end time: Dec 22 22:19 KST
+"openMVG_test_frustum_box_intersection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/85 Testing: openMVG_test_matching
+41/85 Test: openMVG_test_matching
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_matching"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/matching
+"openMVG_test_matching" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 48Matching_Cascade_Hashing_Simple_EmptyArrays_Test
+
+ERROR: [matcher_cascade_hashing.hpp:87] This matcher is not made to match a single query
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 58Matching_ArrayMatcher_Kdtree_Flann_Simple_EmptyArrays_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 55Matching_ArrayMatcherBruteForce_Simple_EmptyArrays_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42Matching_ArrayMatcher_Hnsw_Simple__NN_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 50Matching_ArrayMatcher_Kdtree_Flann_Simple__NN_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 48Matching_ArrayMatcherBruteForce_Simple_Dim4_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39Matching_ArrayMatcherBruteForce_NN_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 48Matching_ArrayMatcherBruteForce_Simple_Dim1_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_matching" end time: Dec 22 22:19 KST
+"openMVG_test_matching" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/85 Testing: openMVG_test_matching_filters
+42/85 Test: openMVG_test_matching_filters
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_matching_filters"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/matching
+"openMVG_test_matching_filters" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 29matching_setIntersection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_matching_filters" end time: Dec 22 22:19 KST
+"openMVG_test_matching_filters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/85 Testing: openMVG_test_indMatch
+43/85 Test: openMVG_test_indMatch
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_indMatch"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/matching
+"openMVG_test_indMatch" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 30IndMatch_DuplicateRemoval_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37IndMatch_DuplicateRemoval_Simple_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40IndMatch_DuplicateRemoval_NoRemoval_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 16IndMatch_IO_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_indMatch" end time: Dec 22 22:19 KST
+"openMVG_test_indMatch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/85 Testing: openMVG_test_metric
+44/85 Test: openMVG_test_metric
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_metric"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/matching
+"openMVG_test_metric" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 20Metric_L1DIM128_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20Metric_L2DIM128_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44Metric_HAMMING_BITSET_RAW_MEMORY_32BITS_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44Metric_HAMMING_BITSET_RAW_MEMORY_64BITS_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26Metric_HAMMING_BITSET_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 14Metric_L2_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_metric" end time: Dec 22 22:19 KST
+"openMVG_test_metric" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/85 Testing: openMVG_test_Pair_Builder
+45/85 Test: openMVG_test_Pair_Builder
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_Pair_Builder"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/matching_image_collection
+"openMVG_test_Pair_Builder" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 46matching_image_collection_IO_InvalidInput_Test
+
+ERROR: [Pair_Builder.hpp:82] loadPairs: Invalid input file. Image out of range. I: 10 J:20 N:2
+File: "pairsT_IO_InvalidInput.txt".
+ERROR: [Pair_Builder.hpp:82] loadPairs: Invalid input file. Image out of range. I: 10 J:20 N:2
+File: "pairsT_IO_InvalidInput.txt".
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33matching_image_collection_IO_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 52matching_image_collection_contiguousWithOverlap_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 46matching_image_collection_exhaustivePairs_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_Pair_Builder" end time: Dec 22 22:19 KST
+"openMVG_test_Pair_Builder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/85 Testing: openMVG_test_triangulation
+46/85 Test: openMVG_test_triangulation
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_triangulation"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_triangulation" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 28Triangulation_Factoring_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 41Triangulation_TriangulateIDWMidpoint_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 46Triangulation_TriangulateLInfinityAngular_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39Triangulation_TriangulateL1Angular_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33Triangulation_TriangulateDLT_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_triangulation" end time: Dec 22 22:19 KST
+"openMVG_test_triangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/85 Testing: openMVG_test_triangulation_nview
+47/85 Test: openMVG_test_triangulation_nview
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_triangulation_nview"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_triangulation_nview" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 41Triangulate_NViewAlgebraic_FiveViews_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32Triangulate_NView_FiveViews_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_triangulation_nview" end time: Dec 22 22:19 KST
+"openMVG_test_triangulation_nview" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/85 Testing: openMVG_test_solver_affine
+48/85 Test: openMVG_test_solver_affine
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_affine"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_affine" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 31Affine3DTest_AffineGeneral_Test
+
+Mat Affine3D 
+ 3 -1  4  1
+ 6 -2 -3 -6
+ 1  0  1  2
+ 0  0  0  1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 43Affine3DTest_RotationAndTranslationXYZ_Test
+
+Mat Affine3D  0.281167  0.950488 -0.132352         1
+ -0.53569 0.0410213 -0.843418         3
+ -0.79623  0.308041  0.520701        -2
+        0         0         0         1
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32Affine3DTest_TranslationXYZ_Test
+
+Mat Affine3D 
+           1  3.91843e-17  2.61229e-17            2
+-3.61748e-16            1  6.34413e-17           -1
+ 1.25825e-16 -1.85037e-17            1            1
+           0            0            0            1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30Affine3DTest_TranslationZ_Test
+
+Mat Affine3D 
+           1  1.63268e-17  2.93883e-17            0
+-1.01506e-16            1  3.17207e-17            0
+ 1.25825e-16 -1.85037e-17            1            1
+           0            0            0            1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31Affine2DTest_AffineGeneral_Test
+
+Mat Affine2D 
+ 3 -1  4
+ 6 -2 -3
+ 0  0  1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44Affine2DTest_Rotation45AndTranslationXY_Test
+
+Mat Affine2D 
+ 0.525322  0.850904        -2
+-0.850904  0.525322         5
+        0         0         1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28Affine2DTest_Rotation45_Test
+
+Mat Affine2D  0.525322 -0.850904         0
+ 0.850904  0.525322         0
+        0         0         1
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31Affine2DTest_TranslationXY_Test
+
+Mat Affine2D 
+1 0 1
+0 1 1
+0 0 1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 30Affine2DTest_TranslationX_Test
+
+Mat Affine2D 
+1 0 1
+0 1 0
+0 0 1
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_affine" end time: Dec 22 22:19 KST
+"openMVG_test_solver_affine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/85 Testing: openMVG_test_solver_essential
+49/85 Test: openMVG_test_solver_essential
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_essential"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_essential" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 63ThreePointsRelativePoseUpright_RelativePose_Kernel_IdFocal_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 56EightPointsRelativePose_RelativePose_Kernel_IdFocal_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_essential" end time: Dec 22 22:19 KST
+"openMVG_test_solver_essential" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/85 Testing: openMVG_test_solver_essential_five_point
+50/85 Test: openMVG_test_solver_essential_five_point
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_essential_five_point"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_essential_five_point" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 42FivePointsRelativePose_test_data_sets_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34FivePointsRelativePose_Random_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 18o2_Evaluation_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 18o1_Evaluation_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 55FivePointsNullspaceBasis_SatisfyEpipolarConstraint_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_essential_five_point" end time: Dec 22 22:19 KST
+"openMVG_test_solver_essential_five_point" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/85 Testing: openMVG_test_solver_essential_three_point
+51/85 Test: openMVG_test_solver_essential_three_point
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_essential_three_point"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_essential_three_point" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 35ThreePointsRelativePose_reprod_Test
+
+         0          0   0.999467
+         0          0 -0.0326562
+ -0.936023   0.351939  0.0115672
+=============
+         0          0  -0.162892
+         0          0  -0.986644
+ -0.127467   0.991843 0.00305776
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_essential_three_point" end time: Dec 22 22:19 KST
+"openMVG_test_solver_essential_three_point" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/85 Testing: openMVG_test_solver_fundamental_kernel
+52/85 Test: openMVG_test_solver_fundamental_kernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_fundamental_kernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_fundamental_kernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 39EightPointTest_Normalized_EasyCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28EightPointTest_EasyCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39SevenPointTest_Normalized_EasyCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28SevenPointTest_EasyCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_fundamental_kernel" end time: Dec 22 22:19 KST
+"openMVG_test_solver_fundamental_kernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/85 Testing: openMVG_test_solver_homography_kernel
+53/85 Test: openMVG_test_solver_homography_kernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_homography_kernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_homography_kernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 44HomographyKernelTest_Fitting_Normalized_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 46HomographyKernelTest_Fitting_Unnormalized_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_homography_kernel" end time: Dec 22 22:19 KST
+"openMVG_test_solver_homography_kernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/85 Testing: openMVG_test_solver_resection_kernel
+54/85 Test: openMVG_test_solver_resection_kernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_resection_kernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_resection_kernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 34UP2PSolver_Kukelova_Multiview_Test
+
+GT:
+ -0.188982         0         0         0
+        0  0.188982         0         0
+        0         0 -0.188982  0.944911
+Computed:
+  0.0320075          0  -0.010171 -0.0166718
+         0  0.0335846          0 0.00662857
+  0.010171          0  0.0320075   0.998145
+GT:
+ -0.188982         0         0         0
+        0  0.188982         0         0
+        0         0 -0.188982  0.944911
+Computed:
+    -0.188982            0 -4.03126e-18  1.07143e-17
+           0     0.188982            0  4.06993e-18
+ 4.03126e-18            0    -0.188982     0.944911
+GT:
+   -0.0944911            0     0.163663 -9.73743e-18
+           0     0.188982            0            0
+   -0.163663            0   -0.0944911     0.944911
+Computed:
+    0.114129           0     0.14151   -0.076006
+          0    0.181798           0 -0.00320616
+   -0.14151           0    0.114129    0.946077
+GT:
+   -0.0944911            0     0.163663 -9.73743e-18
+           0     0.188982            0            0
+   -0.163663            0   -0.0944911     0.944911
+Computed:
+   -0.0944911            0     0.163663 -2.02711e-17
+           0     0.188982            0 -3.28519e-18
+   -0.163663            0   -0.0944911     0.944911
+GT:
+    0.0944911            0     0.163663 -1.94749e-17
+           0     0.188982            0            0
+   -0.163663            0    0.0944911     0.944911
+Computed:
+    0.0944911            0     0.163663 -3.60121e-17
+           0     0.188982            0 -1.19753e-19
+   -0.163663            0    0.0944911     0.944911
+GT:
+    0.0944911            0     0.163663 -1.94749e-17
+           0     0.188982            0            0
+   -0.163663            0    0.0944911     0.944911
+Computed:
+  -0.100449          0   0.169039  0.0699189
+         0   0.196632          0 0.00296216
+ -0.169039          0  -0.100449   0.937609
+GT:
+     0.188982            0  2.31436e-17 -4.65877e-33
+           0     0.188982            0            0
+-2.31436e-17            0     0.188982     0.944911
+Computed:
+     0.188982            0  2.95005e-17  1.43117e-15
+           0     0.188982            0  9.41465e-17
+-2.95005e-17            0     0.188982     0.944911
+GT:
+     0.188982            0  2.31436e-17 -4.65877e-33
+           0     0.188982            0            0
+-2.31436e-17            0     0.188982     0.944911
+Computed:
+   -0.204009           0 -0.00214927     0.14938
+          0     0.20402           0  0.00556301
+ 0.00214927           0   -0.204009    0.923462
+GT:
+    0.0944911            0    -0.163663 -2.77059e-17
+           0     0.188982            0            0
+    0.163663            0    0.0944911     0.944911
+Computed:
+    0.0944911            0    -0.163663 -3.53135e-17
+           0     0.188982            0  3.15516e-18
+    0.163663            0    0.0944911     0.944911
+GT:
+    0.0944911            0    -0.163663 -2.77059e-17
+           0     0.188982            0            0
+    0.163663            0    0.0944911     0.944911
+Computed:
+  -0.119542          0  -0.155539    0.08599
+         0    0.19617          0 0.00284708
+  0.155539          0  -0.119542   0.936563
+GT:
+  -0.0944911           0   -0.163663 9.73743e-18
+          0    0.188982           0           0
+   0.163663           0  -0.0944911    0.944911
+Computed:
+   0.0440696           0   -0.179438  -0.0564272
+          0    0.184771           0 -0.00186197
+   0.179438           0   0.0440696    0.945723
+GT:
+  -0.0944911           0   -0.163663 9.73743e-18
+          0    0.188982           0           0
+   0.163663           0  -0.0944911    0.944911
+Computed:
+  -0.0944911           0   -0.163663   8.427e-19
+          0    0.188982           0 3.54482e-19
+   0.163663           0  -0.0944911    0.944911
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34P3P_Nordberg_ECCV18_Multiview_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28P3P_Ke_CVPR17_Multiview_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31P3P_Kneip_CVPR11_Multiview_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35Resection_Kernel_DLT_Multiview_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_resection_kernel" end time: Dec 22 22:19 KST
+"openMVG_test_solver_resection_kernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/85 Testing: openMVG_test_solver_translation_knownRotation_kernel
+55/85 Test: openMVG_test_solver_translation_knownRotation_kernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_solver_translation_knownRotation_kernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_solver_translation_knownRotation_kernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 47Translation_knownRotation_Kernel_Multiview_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_solver_translation_knownRotation_kernel" end time: Dec 22 22:19 KST
+"openMVG_test_solver_translation_knownRotation_kernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/85 Testing: openMVG_test_rotation_averaging
+56/85 Test: openMVG_test_rotation_averaging
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_rotation_averaging"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_rotation_averaging" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 71rotation_averaging_RefineRotationsAvgL1IRLS_CompleteGraph_outliers_Test
+
+INFO: [rotation_averaging_l1.cpp:435] L1RA Converged in 5 iterations.
+INFO: [rotation_averaging_l1.cpp:510] IRLS Converged in 2 iterations.
+INFO: [rotation_averaging_l1.cpp:556] Refine global rotations using L1RA-IRLS and 10 relative rotations:
+ error reduced from 0.332506(0 min, 1.66255 max)
+ to 0.334675(0.000539858min,1.66249max)
+Inliers: 
+0 1 1 0 1 1 1 1 1 1 
+INFO: [rotation_averaging_l1.cpp:435] L1RA Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:510] IRLS Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:556] Refine global rotations using L1RA-IRLS and 8 relative rotations:
+ error reduced from 8.72426e-17(0 min, 3.18887e-16 max)
+ to 8.72426e-17(0min,3.18887e-16max)
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 62rotation_averaging_RefineRotationsAvgL1IRLS_CompleteGraph_Test
+
+INFO: [rotation_averaging_l1.cpp:435] L1RA Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:510] IRLS Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:556] Refine global rotations using L1RA-IRLS and 15 relative rotations:
+ error reduced from 1.11025e-16(0 min, 3.18887e-16 max)
+ to 1.11025e-16(0min,3.18887e-16max)
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 62rotation_averaging_RefineRotationsAvgL1IRLS_SimpleTriplet_Test
+
+INFO: [rotation_averaging_l1.cpp:435] L1RA Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:510] IRLS Converged in 1 iterations.
+INFO: [rotation_averaging_l1.cpp:556] Refine global rotations using L1RA-IRLS and 3 relative rotations:
+ error reduced from 3.46547e-16(0 min, 9.15513e-16 max)
+ to 2.96173e-16(2.54384e-16min,3.51083e-16max)
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 55rotation_averaging_RefineRotationsL2_CompleteGraph_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 52rotation_averaging_RotationLeastSquare_3_Camera_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 53rotation_averaging_ClosestSVDRotationMatrixNoisy_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 48rotation_averaging_ClosestSVDRotationMatrix_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_rotation_averaging" end time: Dec 22 22:19 KST
+"openMVG_test_rotation_averaging" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/85 Testing: openMVG_test_translation_averaging
+57/85 Test: openMVG_test_translation_averaging
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_translation_averaging"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/multiview
+"openMVG_test_translation_averaging" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 56translation_averaging_globalTi_from_tijs_l2_chordal_Test
+
+INFO: [translation_averaging_solver_l2_chordal.cpp:142] 
+Solver Summary (v 1.14.0-eigen-(3.3.7)-lapack-suitesparse-(5.7.1)-cxsparse-(3.2.0)-eigensparse-openmp-no_tbb)
+
+                                     Original                  Reduced
+Parameter blocks                           12                       11
+Parameters                                 36                       33
+Residual blocks                            24                       24
+Residuals                                  72                       72
+
+Minimizer                        TRUST_REGION
+
+Sparse linear algebra library    SUITE_SPARSE
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver          SPARSE_NORMAL_CHOLESKY   SPARSE_NORMAL_CHOLESKY
+Threads                                     4                        4
+Linear solver ordering              AUTOMATIC                       11
+
+Cost:
+Initial                          1.990848e+01
+Final                            3.894391e-24
+Change                           1.990848e+01
+
+Minimizer iterations                        9
+Successful steps                            9
+Unsuccessful steps                          0
+
+Time (in seconds):
+Preprocessor                         0.000127
+
+  Residual only evaluation           0.000256 (8)
+  Jacobian & residual evaluation     0.000566 (9)
+  Linear solver                      0.000250 (8)
+Minimizer                            0.001167
+
+Postprocessor                        0.000003
+Total                                0.001298
+
+Termination:                      CONVERGENCE (Gradient tolerance reached. Gradient max norm: 4.029638e-12 <= 1.000000e-10)
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 58translation_averaging_globalTi_from_tijs_softl1_Ceres_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 67translation_averaging_globalTi_from_tijs_Triplets_softL1_Ceres_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_translation_averaging" end time: Dec 22 22:19 KST
+"openMVG_test_translation_averaging" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/85 Testing: openMVG_test_extract_columns
+58/85 Test: openMVG_test_extract_columns
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_extract_columns"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/numeric
+"openMVG_test_extract_columns" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 27Numeric_ExtractColumns_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_extract_columns" end time: Dec 22 22:19 KST
+"openMVG_test_extract_columns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/85 Testing: openMVG_test_numeric
+59/85 Test: openMVG_test_numeric
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_numeric"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/numeric
+"openMVG_test_numeric" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 29Numeric_minMaxMeanMedian_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37Numeric_MeanAndVarianceAlongRows_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 22TinyMatrix_LookAt_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 23TinyMatrix_product_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 29TinyMatrix_checkIdentity_Test
+
+
+1 0 0
+0 1 0
+0 0 1
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 21TinyMatrix_print_Test
+
+1 0 0
+0 1 0
+0 0 1
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_numeric" end time: Dec 22 22:19 KST
+"openMVG_test_numeric" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/85 Testing: openMVG_test_poly
+60/85 Test: openMVG_test_poly
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_poly"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/numeric
+"openMVG_test_poly" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 30Poly_SolveCubicPolynomial_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_poly" end time: Dec 22 22:19 KST
+"openMVG_test_poly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/85 Testing: openMVG_test_lm
+61/85 Test: openMVG_test_lm
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_lm"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/numeric
+"openMVG_test_lm" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 25LM_MimimaSearchViaLM_Test
+
+info2
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_lm" end time: Dec 22 22:19 KST
+"openMVG_test_lm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/85 Testing: openMVG_test_l1_solver
+62/85 Test: openMVG_test_l1_solver
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_l1_solver"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/numeric
+"openMVG_test_l1_solver" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 27L1Solver_ADMM_Decoding_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_l1_solver" end time: Dec 22 22:19 KST
+"openMVG_test_l1_solver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/85 Testing: openMVG_test_rand_sampling
+63/85 Test: openMVG_test_rand_sampling
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_rand_sampling"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_rand_sampling" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 59UniformSampleTestInAVectorOfUniqueElements_NoRepetions_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 42UniformSampleTestInARange_NoRepetions_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_rand_sampling" end time: Dec 22 22:19 KST
+"openMVG_test_rand_sampling" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/85 Testing: openMVG_test_robust_estimator_lineKernel
+64/85 Test: openMVG_test_robust_estimator_lineKernel
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_robust_estimator_lineKernel"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_robust_estimator_lineKernel" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 23LineFitter_ItWorks_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_robust_estimator_lineKernel" end time: Dec 22 22:19 KST
+"openMVG_test_robust_estimator_lineKernel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/85 Testing: openMVG_test_robust_estimator_MaxConsensus
+65/85 Test: openMVG_test_robust_estimator_MaxConsensus
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_robust_estimator_MaxConsensus"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_robust_estimator_MaxConsensus" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 41MaxConsensusLineFitter_RealisticCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40MaxConsensusLineFitter_TooFewPoints_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 38MaxConsensusLineFitter_OneOutlier_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 57MaxConsensusLineFitter_OutlierFree_DoNotGetBackModel_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39MaxConsensusLineFitter_OutlierFree_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_robust_estimator_MaxConsensus" end time: Dec 22 22:19 KST
+"openMVG_test_robust_estimator_MaxConsensus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/85 Testing: openMVG_test_robust_estimator_Ransac
+66/85 Test: openMVG_test_robust_estimator_Ransac
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_robust_estimator_Ransac"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_robust_estimator_Ransac" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 41MaxConsensusLineFitter_RealisticCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40MaxConsensusLineFitter_TooFewPoints_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 38MaxConsensusLineFitter_OneOutlier_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39MaxConsensusLineFitter_OutlierFree_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_robust_estimator_Ransac" end time: Dec 22 22:19 KST
+"openMVG_test_robust_estimator_Ransac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/85 Testing: openMVG_test_robust_estimator_ACRansac
+67/85 Test: openMVG_test_robust_estimator_ACRansac
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_robust_estimator_ACRansac"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_robust_estimator_ACRansac" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 34RansacLineFitter_ACRANSACSimu_Test
+
+Remove 112/282 duplicate matches,  keeping 170
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35RansacLineFitter_RealisticCase_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 34RansacLineFitter_TooFewPoints_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 32RansacLineFitter_OneOutlier_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 51RansacLineFitter_OutlierFree_DoNotGetBackModel_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33RansacLineFitter_OutlierFree_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_robust_estimator_ACRansac" end time: Dec 22 22:19 KST
+"openMVG_test_robust_estimator_ACRansac" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/85 Testing: openMVG_test_gms_filter
+68/85 Test: openMVG_test_gms_filter
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_gms_filter"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/robust_estimation
+"openMVG_test_gms_filter" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 31GMSFilter_OutlierDetection_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27GMSFilter_TwoFlowField_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27GMSFilter_FixFlowField_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26GMSFilter_NoFlowField_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 26GMSFilter_borderCases_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_gms_filter" end time: Dec 22 22:19 KST
+"openMVG_test_gms_filter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/85 Testing: openMVG_test_tracks
+69/85 Test: openMVG_test_tracks
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_tracks"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/tracks
+"openMVG_test_tracks" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 26Tracks_TracksInImages_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20Tracks_Conflict_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31Tracks_filter_3viewAtLeast_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 18Tracks_Simple_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_tracks" end time: Dec 22 22:19 KST
+"openMVG_test_tracks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/85 Testing: openMVG_test_union_find
+70/85 Test: openMVG_test_union_find
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_union_find"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/tracks
+"openMVG_test_union_find" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 19Tracks_four_cc_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 18Tracks_two_cc_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 18Tracks_one_cc_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28Tracks_union_find_logic_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_union_find" end time: Dec 22 22:19 KST
+"openMVG_test_union_find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/85 Testing: openMVG_test_global_quantile_gain_offset_alignment
+71/85 Test: openMVG_test_global_quantile_gain_offset_alignment
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_global_quantile_gain_offset_alignment"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/color_harmonization
+"openMVG_test_global_quantile_gain_offset_alignment" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 35ColorHarmonisation_Offset_gain_Test
+
+
+
+Found solution:
+1 0 0.3375 72.4312 1 0 0.44375 
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37ColorHarmonisation_Simple_offset_Test
+
+
+
+Found solution:
+1 0 1 20 0 
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_global_quantile_gain_offset_alignment" end time: Dec 22 22:19 KST
+"openMVG_test_global_quantile_gain_offset_alignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/85 Testing: openMVG_test_convert
+72/85 Test: openMVG_test_convert
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_convert"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/spherical
+"openMVG_test_convert" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 54Ressampling_PinholeToSpherical_SphericalToPinhole_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 50Ressampling_PinholeToSpherical_direct_mapping_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 52Ressampling_PinholeToSpherical_indirect_mapping_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_convert" end time: Dec 22 22:19 KST
+"openMVG_test_convert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/85 Testing: openMVG_test_progress
+73/85 Test: openMVG_test_progress
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_progress"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/system
+"openMVG_test_progress" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36LogProgress_conditional_logging_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 27LogProgress_logging_if_Test
+
+INFO: [progress_test.cpp:174]  10%
+INFO: [progress_test.cpp:174]  20%
+INFO: [progress_test.cpp:174]  30%
+INFO: [progress_test.cpp:174]  40%
+INFO: [progress_test.cpp:174]  50%
+INFO: [progress_test.cpp:174]  60%
+INFO: [progress_test.cpp:174]  70%
+INFO: [progress_test.cpp:174]  80%
+INFO: [progress_test.cpp:174]  90%
+INFO: [progress_test.cpp:174]  100%
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 24LogProgress_logging_Test
+
+INFO: [loggerprogress.hpp:79]  10%
+INFO: [loggerprogress.hpp:79]  20%
+INFO: [loggerprogress.hpp:79]  30%
+INFO: [loggerprogress.hpp:79]  40%
+INFO: [loggerprogress.hpp:79]  50%
+INFO: [loggerprogress.hpp:79]  60%
+INFO: [loggerprogress.hpp:79]  70%
+INFO: [loggerprogress.hpp:79]  80%
+INFO: [loggerprogress.hpp:79]  90%
+INFO: [loggerprogress.hpp:79]  100%
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 21Progress_percent_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 20Progress_cancel_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 19Progress_dummy_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_progress" end time: Dec 22 22:19 KST
+"openMVG_test_progress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/85 Testing: openMVG_test_sfm_data_io
+74/85 Test: openMVG_test_sfm_data_io
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_io"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_io" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 25SfM_Data_IO_SAVE_PLY_Test
+
+Testing:SAVE_LOAD.ply
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 31SfM_Data_IO_SAVE_LOAD_JSON_Test
+
+Testing:SAVE_LOAD.json
+Testing:SAVE_LOAD.bin
+Testing:SAVE_LOAD.xml
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_io" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_io" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/85 Testing: openMVG_test_sfm_data_BA
+75/85 Test: openMVG_test_sfm_data_BA
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_BA"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_BA" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 63BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_PosePriors_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 12
+ #poses: 12
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 144
+ Initial RMSE: 28.2231
+ Final RMSE: 8.06978e-12
+ Time (s): 0.00966492 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 12
+ #poses: 12
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 180
+ Initial RMSE: 7.21458e-12
+ Final RMSE: 7.21458e-12
+ Time (s): 0.00390355 
+--
+ Used motion prior: 1
+INFO: [sfm_data_BA_ceres.cpp:586] Pose prior statistics (user units):
+ - Starting median fitting error: 2.87848e-13
+ - Final fitting error:
+	 min: 1.36137e-13
+	 mean: 3.25705e-13
+	 median: 2.87782e-13
+	 max: 7.3848e-13
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 56BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_GCP_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 60
+ Initial RMSE: 706.574
+ Final RMSE: 0.0354715
+ Time (s): 0.000397087 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 70BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_Intrinsic_Fisheye_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 36
+ Initial RMSE: 27.5021
+ Final RMSE: 1.63544e-09
+ Time (s): 0.00217564 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 71BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_Intrinsic_Brown_T2_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 36
+ Initial RMSE: 29.182
+ Final RMSE: 1.40659e-10
+ Time (s): 0.00114194 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 62BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_Radial_K3_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 36
+ Initial RMSE: 29.1081
+ Final RMSE: 0.00167546
+ Time (s): 0.00281714 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 62BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_Radial_K1_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 36
+ Initial RMSE: 30.2897
+ Final RMSE: 0.0240954
+ Time (s): 0.00933394 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 52BUNDLE_ADJUSTMENT_EffectiveMinimization_Pinhole_Test
+
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 3
+ #poses: 3
+ #intrinsics: 1
+ #tracks: 6
+ #residuals: 36
+ Initial RMSE: 28.461
+ Final RMSE: 0.0222514
+ Time (s): 0.00477978 
+--
+ Used motion prior: 0
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_BA" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_BA" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/85 Testing: openMVG_test_sfm_data_utils
+76/85 Test: openMVG_test_sfm_data_utils
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_utils"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_utils" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 66SfM_Data_IntrinsicGrouping_Grouping_Two_Different_Camera_Type_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44SfM_Data_IntrinsicGrouping_Grouping_Two_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 43SfM_Data_IntrinsicGrouping_No_Grouping_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 44SfM_Data_IntrinsicGrouping_Grouping_One_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 37SfM_Data_IntrinsicGrouping_Empty_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_utils" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_utils" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/85 Testing: openMVG_test_sfm_data_filters
+77/85 Test: openMVG_test_sfm_data_filters
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_filters"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_filters" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 55SFM_DATA_FILTERS_eraseUnstablePosesAndObservations_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 55SFM_DATA_FILTERS_eraseObservationsWithMissingPoses_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 39SFM_DATA_FILTERS_eraseMissingPoses_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 40SFM_DATA_FILTERS_LargestViewTrackCC_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_filters" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_filters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/85 Testing: openMVG_test_sfm_data_graph_utils
+78/85 Test: openMVG_test_sfm_data_graph_utils
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_graph_utils"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_graph_utils" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 46SFM_DATA_GRAPH_PairsToConnectedComponents_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 57SFM_DATA_GRAPH_PairsToConnectedComponents_EmptyInput_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_graph_utils" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_graph_utils" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/85 Testing: openMVG_test_sfm_data_triangulation
+79/85 Test: openMVG_test_sfm_data_triangulation
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sfm_data_triangulation"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm
+"openMVG_test_sfm_data_triangulation" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 34SFM_DATA_TRIANGULATION_ROBUST_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 33SFM_DATA_TRIANGULATION_BLIND_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sfm_data_triangulation" end time: Dec 22 22:19 KST
+"openMVG_test_sfm_data_triangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/85 Testing: openMVG_test_global_SfM
+80/85 Test: openMVG_test_global_SfM
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_global_SfM"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm/pipelines/global
+"openMVG_test_global_SfM" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 62GLOBAL_SFM_RotationAveragingL2_TranslationAveragingSoftL1_Test
+
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 16(ms)
+INFO: [sfm_global_engine_relative_motions.cpp:195] 
+-------------------------------
+ Global rotations computation: 
+  #relative rotations: 12
+  #global rotations: 6
+INFO: [GlobalSfM_rotation_averaging.cpp:245] Statistics about rotation triplets:
+	 min: 0.0772642
+	 mean: 0.188563
+	 median: 0.245841
+	 max: 0.299678
+0	|	0
+0.015	|	0
+0.03	|	0
+0.045	|	0
+0.0599	|	0
+0.0749	|	2
+0.0899	|	1
+0.105	|	0
+0.12	|	0
+0.135	|	0
+0.15	|	0
+0.165	|	0
+0.18	|	0
+0.195	|	1
+0.21	|	0
+0.225	|	0
+0.24	|	2
+0.255	|	1
+0.27	|	0
+0.285	|	1
+0.3
+
+
+Triplets filtering based on unit cycle rotation composition error:
+#Triplets before: 8
+#Triplets after: 8
+INFO: [GlobalSfM_rotation_averaging.cpp:251] 
+ #Edges removed by triplet inference: 0
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [sfm_global_engine_relative_motions.cpp:212] Found #global_rotations: 6
+Timing: 0 seconds
+INFO: [sfm_global_engine_relative_motions.cpp:241] 
+Relative/Global degree rotations residual errors {0,0.0641194}:
+0	|	0
+0.00321	|	0
+0.00641	|	0
+0.00962	|	0
+0.0128	|	0
+0.016	|	1
+0.0192	|	1
+0.0224	|	1
+0.0256	|	1
+0.0289	|	1
+0.0321	|	1
+0.0353	|	1
+0.0385	|	0
+0.0417	|	0
+0.0449	|	0
+0.0481	|	0
+0.0513	|	2
+0.0545	|	0
+0.0577	|	0
+0.0609	|	3
+0.0641
+
+INFO: [sfm_global_engine_relative_motions.cpp:247] 
+Relative/Global degree rotations residual errors {0,5}:
+0	|	12
+0.25	|	0
+0.5	|	0
+0.75	|	0
+1	|	0
+1.25	|	0
+1.5	|	0
+1.75	|	0
+2	|	0
+2.25	|	0
+2.5	|	0
+2.75	|	0
+3	|	0
+3.25	|	0
+3.5	|	0
+3.75	|	0
+4	|	0
+4.25	|	0
+4.5	|	0
+4.75	|	0
+5
+
+INFO: [sfm_global_engine_relative_motions.cpp:254] 
+Statistics about global rotation evaluation:
+	 min: 0.0185182
+	 mean: 0.0403844
+	 median: 0.035657
+	 max: 0.0641194
+
+INFO: [GlobalSfM_translation_averaging.cpp:305] 
+-------------------------------
+ Relative translations computation: 
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:364] #Triplets: 8
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 50%
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 100%
+INFO: [GlobalSfM_translation_averaging.cpp:581] TRIPLET COVERAGE TIMING:
+-------------------------------
+-- #Relative triplet of translations estimates: 10 computed from 8 triplets.
+-- resulting in 30 translations estimation.
+-- time to compute triplets of relative translations: 0 seconds.
+-------------------------------
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [GlobalSfM_translation_averaging.cpp:107] 
+-------------------------------
+ Global translations computation: 
+   - Ready to compute 6 global translations.
+     from #relative translations: 30
+INFO: [sfm_global_engine_relative_motions.cpp:390] 
+------------------
+-- Tracks Stats --
+ Tracks number: 64
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	64
+
+
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 20%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 30%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 50%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 70%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 80%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 100%
+INFO: [sfm_global_engine_relative_motions.cpp:402] 
+#removed tracks (invalid triangulation): 0
+INFO: [sfm_global_engine_relative_motions.cpp:404] Triangulation took (s): 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 1.5035
+ Final RMSE: 0.311334
+ Time (s): 0.00179588 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.311334
+ Final RMSE: 0.308179
+ Time (s): 0.00198961 
+--
+ Used motion prior: 0
+INFO: [sfm_global_engine_relative_motions.cpp:488] Outlier removal (remaining #points):
+	 initial structure size #3DPoints: 64
+		 pixel residual filter  #3DPoints: 64
+		 angular filter         #3DPoints: 64
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.308179
+ Final RMSE: 0.308179
+ Time (s): 0.00105091 
+--
+ Used motion prior: 0
+RMSE residual: 0.43583
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 66GLOBAL_SFM_RotationAveragingL2_TranslationAveragingL2_Chordal_Test
+
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 13(ms)
+INFO: [sfm_global_engine_relative_motions.cpp:195] 
+-------------------------------
+ Global rotations computation: 
+  #relative rotations: 12
+  #global rotations: 6
+INFO: [GlobalSfM_rotation_averaging.cpp:245] Statistics about rotation triplets:
+	 min: 0.0940607
+	 mean: 0.29399
+	 median: 0.282963
+	 max: 0.542714
+0	|	0
+0.0271	|	0
+0.0543	|	0
+0.0814	|	1
+0.109	|	0
+0.136	|	0
+0.163	|	0
+0.19	|	1
+0.217	|	2
+0.244	|	0
+0.271	|	1
+0.298	|	0
+0.326	|	0
+0.353	|	1
+0.38	|	0
+0.407	|	1
+0.434	|	0
+0.461	|	0
+0.488	|	0
+0.516	|	1
+0.543
+
+
+Triplets filtering based on unit cycle rotation composition error:
+#Triplets before: 8
+#Triplets after: 8
+INFO: [GlobalSfM_rotation_averaging.cpp:251] 
+ #Edges removed by triplet inference: 0
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [sfm_global_engine_relative_motions.cpp:212] Found #global_rotations: 6
+Timing: 0 seconds
+INFO: [sfm_global_engine_relative_motions.cpp:241] 
+Relative/Global degree rotations residual errors {0,0.0774539}:
+0	|	0
+0.00387	|	0
+0.00775	|	0
+0.0116	|	1
+0.0155	|	1
+0.0194	|	0
+0.0232	|	0
+0.0271	|	0
+0.031	|	1
+0.0349	|	1
+0.0387	|	4
+0.0426	|	0
+0.0465	|	0
+0.0503	|	1
+0.0542	|	2
+0.0581	|	0
+0.062	|	0
+0.0658	|	0
+0.0697	|	0
+0.0736	|	0
+0.0775
+
+INFO: [sfm_global_engine_relative_motions.cpp:247] 
+Relative/Global degree rotations residual errors {0,5}:
+0	|	12
+0.25	|	0
+0.5	|	0
+0.75	|	0
+1	|	0
+1.25	|	0
+1.5	|	0
+1.75	|	0
+2	|	0
+2.25	|	0
+2.5	|	0
+2.75	|	0
+3	|	0
+3.25	|	0
+3.5	|	0
+3.75	|	0
+4	|	0
+4.25	|	0
+4.5	|	0
+4.75	|	0
+5
+
+INFO: [sfm_global_engine_relative_motions.cpp:254] 
+Statistics about global rotation evaluation:
+	 min: 0.0141962
+	 mean: 0.0418917
+	 median: 0.0410296
+	 max: 0.0774539
+
+INFO: [GlobalSfM_translation_averaging.cpp:305] 
+-------------------------------
+ Relative translations computation: 
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:364] #Triplets: 8
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 50%
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 100%
+INFO: [GlobalSfM_translation_averaging.cpp:581] TRIPLET COVERAGE TIMING:
+-------------------------------
+-- #Relative triplet of translations estimates: 10 computed from 8 triplets.
+-- resulting in 30 translations estimation.
+-- time to compute triplets of relative translations: 0 seconds.
+-------------------------------
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [GlobalSfM_translation_averaging.cpp:107] 
+-------------------------------
+ Global translations computation: 
+   - Ready to compute 6 global translations.
+     from #relative translations: 30
+INFO: [translation_averaging_solver_l2_chordal.cpp:142] 
+Solver Summary (v 1.14.0-eigen-(3.3.7)-lapack-suitesparse-(5.7.1)-cxsparse-(3.2.0)-eigensparse-openmp-no_tbb)
+
+                                     Original                  Reduced
+Parameter blocks                            6                        5
+Parameters                                 18                       15
+Residual blocks                            30                       30
+Residuals                                  90                       90
+
+Minimizer                        TRUST_REGION
+
+Sparse linear algebra library    SUITE_SPARSE
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver          SPARSE_NORMAL_CHOLESKY   SPARSE_NORMAL_CHOLESKY
+Threads                                     4                        4
+Linear solver ordering              AUTOMATIC                        5
+
+Cost:
+Initial                          2.302048e+01
+Final                            3.493162e-04
+Change                           2.302013e+01
+
+Minimizer iterations                        7
+Successful steps                            7
+Unsuccessful steps                          0
+
+Time (in seconds):
+Preprocessor                         0.000064
+
+  Residual only evaluation           0.000022 (7)
+  Jacobian & residual evaluation     0.000044 (7)
+  Linear solver                      0.000130 (7)
+Minimizer                            0.000258
+
+Postprocessor                        0.000003
+Total                                0.000324
+
+Termination:                      CONVERGENCE (Parameter tolerance reached. Relative step_norm: 7.884937e-09 <= 1.000000e-08.)
+
+INFO: [sfm_global_engine_relative_motions.cpp:390] 
+------------------
+-- Tracks Stats --
+ Tracks number: 64
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	64
+
+
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 20%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 30%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 50%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 70%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 80%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 100%
+INFO: [sfm_global_engine_relative_motions.cpp:402] 
+#removed tracks (invalid triangulation): 0
+INFO: [sfm_global_engine_relative_motions.cpp:404] Triangulation took (s): 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 2.93428
+ Final RMSE: 0.314966
+ Time (s): 0.00173694 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.314966
+ Final RMSE: 0.309035
+ Time (s): 0.00151226 
+--
+ Used motion prior: 0
+INFO: [sfm_global_engine_relative_motions.cpp:488] Outlier removal (remaining #points):
+	 initial structure size #3DPoints: 64
+		 pixel residual filter  #3DPoints: 64
+		 angular filter         #3DPoints: 64
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.309035
+ Final RMSE: 0.309035
+ Time (s): 0.00102694 
+--
+ Used motion prior: 0
+RMSE residual: 0.437041
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 58GLOBAL_SFM_RotationAveragingL1_TranslationAveragingL1_Test
+
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 13(ms)
+INFO: [sfm_global_engine_relative_motions.cpp:195] 
+-------------------------------
+ Global rotations computation: 
+  #relative rotations: 12
+  #global rotations: 6
+INFO: [GlobalSfM_rotation_averaging.cpp:245] Statistics about rotation triplets:
+	 min: 0.114939
+	 mean: 0.240313
+	 median: 0.248212
+	 max: 0.438384
+0	|	0
+0.0219	|	0
+0.0438	|	0
+0.0658	|	0
+0.0877	|	0
+0.11	|	1
+0.132	|	1
+0.153	|	1
+0.175	|	0
+0.197	|	1
+0.219	|	0
+0.241	|	1
+0.263	|	1
+0.285	|	0
+0.307	|	1
+0.329	|	0
+0.351	|	0
+0.373	|	0
+0.395	|	0
+0.416	|	0
+0.438
+
+
+Triplets filtering based on unit cycle rotation composition error:
+#Triplets before: 8
+#Triplets after: 8
+INFO: [GlobalSfM_rotation_averaging.cpp:251] 
+ #Edges removed by triplet inference: 0
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [rotation_averaging_l1.cpp:435] L1RA Converged in 2 iterations.
+INFO: [rotation_averaging_l1.cpp:510] IRLS Converged in 2 iterations.
+INFO: [rotation_averaging_l1.cpp:556] Refine global rotations using L1RA-IRLS and 12 relative rotations:
+ error reduced from 0.00090888(0 min, 0.00288615 max)
+ to 0.000713833(0.000140495min,0.00170853max)
+INFO: [GlobalSfM_rotation_averaging.cpp:123] 
+inliers:
+1 1 1 1 1 1 1 1 1 1 1 1 
+INFO: [sfm_global_engine_relative_motions.cpp:212] Found #global_rotations: 6
+Timing: 0 seconds
+INFO: [sfm_global_engine_relative_motions.cpp:241] 
+Relative/Global degree rotations residual errors {0,0.0565179}:
+0	|	0
+0.00283	|	1
+0.00565	|	3
+0.00848	|	0
+0.0113	|	2
+0.0141	|	0
+0.017	|	1
+0.0198	|	0
+0.0226	|	0
+0.0254	|	0
+0.0283	|	1
+0.0311	|	0
+0.0339	|	1
+0.0367	|	0
+0.0396	|	1
+0.0424	|	0
+0.0452	|	0
+0.048	|	0
+0.0509	|	1
+0.0537	|	1
+0.0565
+
+INFO: [sfm_global_engine_relative_motions.cpp:247] 
+Relative/Global degree rotations residual errors {0,5}:
+0	|	12
+0.25	|	0
+0.5	|	0
+0.75	|	0
+1	|	0
+1.25	|	0
+1.5	|	0
+1.75	|	0
+2	|	0
+2.25	|	0
+2.5	|	0
+2.75	|	0
+3	|	0
+3.25	|	0
+3.5	|	0
+3.75	|	0
+4	|	0
+4.25	|	0
+4.5	|	0
+4.75	|	0
+5
+
+INFO: [sfm_global_engine_relative_motions.cpp:254] 
+Statistics about global rotation evaluation:
+	 min: 0.00464754
+	 mean: 0.0236134
+	 median: 0.0180952
+	 max: 0.0565179
+
+INFO: [GlobalSfM_translation_averaging.cpp:305] 
+-------------------------------
+ Relative translations computation: 
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:364] #Triplets: 8
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 50%
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 100%
+INFO: [GlobalSfM_translation_averaging.cpp:581] TRIPLET COVERAGE TIMING:
+-------------------------------
+-- #Relative triplet of translations estimates: 10 computed from 8 triplets.
+-- resulting in 30 translations estimation.
+-- time to compute triplets of relative translations: 0 seconds.
+-------------------------------
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [GlobalSfM_translation_averaging.cpp:107] 
+-------------------------------
+ Global translations computation: 
+   - Ready to compute 6 global translations.
+     from #relative translations: 30
+INFO: [GlobalSfM_translation_averaging.cpp:174] Translation fusion statistics.
+-------------------------------
+-- #relative estimates: 10 converge with gamma: 0.00707492.
+ timing (s): 0.
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:191] Found solution:
+0 0 0 1.54304 -0.00299127 0.876766 1.53991 0.00183413 2.68458 0.0115055 0.0080944 3.53032 -1.54058 -0.00695979 2.6507 -1.54928 -0.00675619 0.886764 1.0114 1 1.11773 1.0114 1.0114 1 1.13816 1.00847 1.00053 1.13816 0.00707492 
+cam position: 0 0 0 1.54304 -0.00299127 0.876766 1.53991 0.00183413 2.68458 0.0115055 0.0080944 3.53032 -1.54058 -0.00695979 2.6507 -1.54928 -0.00675619 0.886764 
+cam Lambdas: 1.0114 1 1.11773 1.0114 1.0114 1 1.13816 1.00847 1.00053 1.13816 
+INFO: [sfm_global_engine_relative_motions.cpp:390] 
+------------------
+-- Tracks Stats --
+ Tracks number: 64
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	64
+
+
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 20%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 30%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 50%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 70%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 80%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 100%
+INFO: [sfm_global_engine_relative_motions.cpp:402] 
+#removed tracks (invalid triangulation): 0
+INFO: [sfm_global_engine_relative_motions.cpp:404] Triangulation took (s): 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 2.12235
+ Final RMSE: 0.308005
+ Time (s): 0.00168797 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.308005
+ Final RMSE: 0.303344
+ Time (s): 0.00159207 
+--
+ Used motion prior: 0
+INFO: [sfm_global_engine_relative_motions.cpp:488] Outlier removal (remaining #points):
+	 initial structure size #3DPoints: 64
+		 pixel residual filter  #3DPoints: 64
+		 angular filter         #3DPoints: 64
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.303344
+ Final RMSE: 0.303344
+ Time (s): 0.0010523 
+--
+ Used motion prior: 0
+RMSE residual: 0.428993
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 58GLOBAL_SFM_RotationAveragingL2_TranslationAveragingL1_Test
+
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 13(ms)
+INFO: [sfm_global_engine_relative_motions.cpp:195] 
+-------------------------------
+ Global rotations computation: 
+  #relative rotations: 12
+  #global rotations: 6
+INFO: [GlobalSfM_rotation_averaging.cpp:245] Statistics about rotation triplets:
+	 min: 0.104611
+	 mean: 0.257662
+	 median: 0.205066
+	 max: 0.547426
+0	|	0
+0.0274	|	0
+0.0547	|	0
+0.0821	|	1
+0.109	|	0
+0.137	|	0
+0.164	|	3
+0.192	|	1
+0.219	|	0
+0.246	|	1
+0.274	|	0
+0.301	|	0
+0.328	|	0
+0.356	|	0
+0.383	|	0
+0.411	|	1
+0.438	|	0
+0.465	|	0
+0.493	|	0
+0.52	|	0
+0.547
+
+
+Triplets filtering based on unit cycle rotation composition error:
+#Triplets before: 8
+#Triplets after: 8
+INFO: [GlobalSfM_rotation_averaging.cpp:251] 
+ #Edges removed by triplet inference: 0
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [sfm_global_engine_relative_motions.cpp:212] Found #global_rotations: 6
+Timing: 0 seconds
+INFO: [sfm_global_engine_relative_motions.cpp:241] 
+Relative/Global degree rotations residual errors {0,0.0890035}:
+0	|	0
+0.00445	|	2
+0.0089	|	2
+0.0134	|	2
+0.0178	|	0
+0.0223	|	0
+0.0267	|	0
+0.0312	|	2
+0.0356	|	1
+0.0401	|	1
+0.0445	|	0
+0.049	|	1
+0.0534	|	0
+0.0579	|	0
+0.0623	|	0
+0.0668	|	0
+0.0712	|	0
+0.0757	|	0
+0.0801	|	0
+0.0846	|	0
+0.089
+
+INFO: [sfm_global_engine_relative_motions.cpp:247] 
+Relative/Global degree rotations residual errors {0,5}:
+0	|	12
+0.25	|	0
+0.5	|	0
+0.75	|	0
+1	|	0
+1.25	|	0
+1.5	|	0
+1.75	|	0
+2	|	0
+2.25	|	0
+2.5	|	0
+2.75	|	0
+3	|	0
+3.25	|	0
+3.5	|	0
+3.75	|	0
+4	|	0
+4.25	|	0
+4.5	|	0
+4.75	|	0
+5
+
+INFO: [sfm_global_engine_relative_motions.cpp:254] 
+Statistics about global rotation evaluation:
+	 min: 0.00713873
+	 mean: 0.0297151
+	 median: 0.0324864
+	 max: 0.0890035
+
+INFO: [GlobalSfM_translation_averaging.cpp:305] 
+-------------------------------
+ Relative translations computation: 
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:364] #Triplets: 8
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 50%
+INFO: [loggerprogress.hpp:79] [Relative translations computation (edge coverage algorithm)] 100%
+INFO: [GlobalSfM_translation_averaging.cpp:581] TRIPLET COVERAGE TIMING:
+-------------------------------
+-- #Relative triplet of translations estimates: 10 computed from 8 triplets.
+-- resulting in 30 translations estimation.
+-- time to compute triplets of relative translations: 0 seconds.
+-------------------------------
+INFO: [connectedComponent.hpp:99] CleanGraph_KeepLargestBiEdge_Nodes():: => connected Component: 1
+INFO: [connectedComponent.hpp:118] Connected component of size: 6
+INFO: [GlobalSfM_translation_averaging.cpp:107] 
+-------------------------------
+ Global translations computation: 
+   - Ready to compute 6 global translations.
+     from #relative translations: 30
+INFO: [GlobalSfM_translation_averaging.cpp:174] Translation fusion statistics.
+-------------------------------
+-- #relative estimates: 10 converge with gamma: 0.0109053.
+ timing (s): 0.
+-------------------------------
+INFO: [GlobalSfM_translation_averaging.cpp:191] Found solution:
+0 0 0 1.26883 0.00138606 0.711451 1.26002 0.00983653 2.18497 -0.00761405 -0.00112306 2.93474 -1.2728 -0.00246704 2.17214 -1.25983 0.00892001 0.713018 1 1 1.38764 1 1.13415 1.0131 1.01826 1 1.0131 1.01826 0.0109053 
+cam position: 0 0 0 1.26883 0.00138606 0.711451 1.26002 0.00983653 2.18497 -0.00761405 -0.00112306 2.93474 -1.2728 -0.00246704 2.17214 -1.25983 0.00892001 0.713018 
+cam Lambdas: 1 1 1.38764 1 1.13415 1.0131 1.01826 1 1.0131 1.01826 
+INFO: [sfm_global_engine_relative_motions.cpp:390] 
+------------------
+-- Tracks Stats --
+ Tracks number: 64
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	64
+
+
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 20%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 30%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 50%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 70%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 80%
+INFO: [loggerprogress.hpp:79] [Blind triangulation progress] 100%
+INFO: [sfm_global_engine_relative_motions.cpp:402] 
+#removed tracks (invalid triangulation): 0
+INFO: [sfm_global_engine_relative_motions.cpp:404] Triangulation took (s): 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 2.38618
+ Final RMSE: 0.309737
+ Time (s): 0.00176005 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.309737
+ Final RMSE: 0.305644
+ Time (s): 0.00161861 
+--
+ Used motion prior: 0
+INFO: [sfm_global_engine_relative_motions.cpp:488] Outlier removal (remaining #points):
+	 initial structure size #3DPoints: 64
+		 pixel residual filter  #3DPoints: 64
+		 angular filter         #3DPoints: 64
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 64
+ #residuals: 768
+ Initial RMSE: 0.305644
+ Final RMSE: 0.305644
+ Time (s): 0.0330084 
+--
+ Used motion prior: 0
+RMSE residual: 0.432246
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   1.33 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_global_SfM" end time: Dec 22 22:19 KST
+"openMVG_test_global_SfM" time elapsed: 00:00:01
+----------------------------------------------------------
+
+81/85 Testing: openMVG_test_sequential_SfM
+81/85 Test: openMVG_test_sequential_SfM
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sequential_SfM"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm/pipelines/sequential
+"openMVG_test_sequential_SfM" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 46SEQUENTIAL_SFM_Partially_Known_Intrinsics_Test
+
+INFO: [sequential_SfM.cpp:278] Track building
+INFO: [sequential_SfM.cpp:281] Track filtering
+INFO: [sequential_SfM.cpp:283] Track export to internal struct
+INFO: [sequential_SfM.cpp:309] 
+------------------
+-- Tracks Stats --
+ Tracks number: 32
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	32
+
+INFO: [sequential_SfM.cpp:495] Putative starting pair info:
+index:(0,2)
+view basename:(,)
+INFO: [sequential_SfM.cpp:538] Relative pose a-contrario upper_bound residual is: 3.28638
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 2
+ #poses: 2
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 128
+ Initial RMSE: 0.227429
+ Final RMSE: 0.183702
+ Time (s): 0.000958713 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:648] 
+=========================
+ MSE Residual InitialPair Inlier:
+
+INFO: [sequential_SfM.cpp:733] 
+SequentialSfMReconstructionEngine::ComputeResidualsMSE.
+	-- #Tracks:	32
+	-- Residual min:	0.00314456
+	-- Residual median:	0.124732
+	-- Residual max:	 0.897658
+	-- Residual mean:	 0.187953
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 5
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-19.6457 inliers=23/32 precisionNormalized=0.00340016 precision=58.3108 (iter=0 ,sample=26,5,29,27,7,31,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-68.7625 inliers=32/32 precisionNormalized=0.000375365 precision=19.3743 (iter=1 ,sample=22,7,10,21,5,18,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-68.9201 inliers=31/32 precisionNormalized=0.000247942 precision=15.7462 (iter=2 ,sample=26,28,1,19,9,21,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-107.008 inliers=32/32 precisionNormalized=1.25751e-05 precision=3.54614 (iter=3 ,sample=17,24,12,10,19,26,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-110.523 inliers=32/32 precisionNormalized=9.17909e-06 precision=3.0297 (iter=47 ,sample=9,17,6,29,12,20,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-110.927 inliers=32/32 precisionNormalized=8.85289e-06 precision=2.97538 (iter=53 ,sample=6,9,17,15,3,5,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-117.011 inliers=32/32 precisionNormalized=5.11542e-06 precision=2.26173 (iter=61 ,sample=17,1,8,20,9,31,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-117.66 inliers=32/32 precisionNormalized=4.82277e-06 precision=2.19608 (iter=137 ,sample=1,31,18,17,29,19,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 32
+-- Threshold: 2.19608
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 64
+ Initial RMSE: 0.592733
+ Final RMSE: 0.537614
+ Time (s): 0.000329328 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 1
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=6.02939 inliers=4/32 precisionNormalized=0.0204129 precision=142.874 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-84.2653 inliers=32/32 precisionNormalized=0.000250222 precision=15.8184 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-113.16 inliers=32/32 precisionNormalized=2.51254e-05 precision=5.01252 (iter=1 ,sample=18,13,24,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-117.365 inliers=32/32 precisionNormalized=1.79591e-05 precision=4.23782 (iter=19 ,sample=26,15,21,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-118.242 inliers=32/32 precisionNormalized=1.67433e-05 precision=4.09186 (iter=24 ,sample=15,28,13,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-119.592 inliers=32/32 precisionNormalized=1.50296e-05 precision=3.8768 (iter=51 ,sample=7,13,18,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-122.754 inliers=31/32 precisionNormalized=7.13917e-06 precision=2.67192 (iter=156 ,sample=19,28,4,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-124.33 inliers=31/32 precisionNormalized=6.25665e-06 precision=2.50133 (iter=281 ,sample=1,8,4,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 31
+-- Threshold: 2.50133
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 31
+ #residuals: 62
+ Initial RMSE: 0.733611
+ Final RMSE: 0.629633
+ Time (s): 0.000165891 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 4
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-20.1925 inliers=30/32 precisionNormalized=0.0177687 precision=133.299 (iter=0 ,sample=26,5,29,27,7,31,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-81.1947 inliers=31/32 precisionNormalized=7.997e-05 precision=8.94259 (iter=2 ,sample=30,7,11,19,23,15,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-107.087 inliers=31/32 precisionNormalized=7.25802e-06 precision=2.69407 (iter=3 ,sample=12,16,17,27,23,19,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-107.523 inliers=32/32 precisionNormalized=1.20088e-05 precision=3.46538 (iter=31 ,sample=11,18,1,7,17,15,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-112.281 inliers=32/32 precisionNormalized=7.83872e-06 precision=2.79977 (iter=46 ,sample=8,1,31,21,22,9,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-112.44 inliers=32/32 precisionNormalized=7.72724e-06 precision=2.77979 (iter=69 ,sample=7,29,1,23,8,10,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 32
+-- Threshold: 2.77979
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 64
+ Initial RMSE: 0.757178
+ Final RMSE: 0.563515
+ Time (s): 0.000285633 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 3
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-32.0714 inliers=22/32 precisionNormalized=0.000414166 precision=20.3511 (iter=0 ,sample=26,5,29,27,7,31,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-50.9881 inliers=26/32 precisionNormalized=0.000207243 precision=14.3959 (iter=2 ,sample=13,31,4,22,3,26,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-68.7874 inliers=30/32 precisionNormalized=0.000167712 precision=12.9504 (iter=3 ,sample=8,4,3,24,31,26,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-72.5926 inliers=30/32 precisionNormalized=0.000116379 precision=10.7879 (iter=5 ,sample=26,8,11,3,23,22,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-92.1279 inliers=31/32 precisionNormalized=2.91389e-05 precision=5.39805 (iter=6 ,sample=30,9,17,15,27,6,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-103.359 inliers=32/32 precisionNormalized=1.74174e-05 precision=4.17341 (iter=10 ,sample=26,21,9,30,4,28,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-106.476 inliers=32/32 precisionNormalized=1.31872e-05 precision=3.63142 (iter=11 ,sample=9,13,4,6,12,21,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-109.961 inliers=31/32 precisionNormalized=5.5424e-06 precision=2.35423 (iter=12 ,sample=19,27,11,20,18,14,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-115.116 inliers=32/32 precisionNormalized=6.07201e-06 precision=2.46415 (iter=22 ,sample=18,19,27,24,16,23,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-115.309 inliers=31/32 precisionNormalized=3.34022e-06 precision=1.82763 (iter=241 ,sample=13,23,16,1,20,8,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-119.059 inliers=32/32 precisionNormalized=4.24717e-06 precision=2.06087 (iter=304 ,sample=14,23,19,17,28,30,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 32
+-- Threshold: 2.06087
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 64
+ Initial RMSE: 0.547178
+ Final RMSE: 0.479442
+ Time (s): 0.000262818 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 4
+ #tracks: 32
+ #residuals: 382
+ Initial RMSE: 0.46453
+ Final RMSE: 0.315837
+ Time (s): 0.00236209 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:733] 
+SequentialSfMReconstructionEngine::ComputeResidualsMSE.
+	-- #Tracks:	32
+	-- Residual min:	0.00216149
+	-- Residual median:	0.314645
+	-- Residual max:	 1.47887
+	-- Residual mean:	 0.358009
+INFO: [sequential_SfM.cpp:235] 
+-------------------------------
+-- Structure from Motion (statistics):
+-- #Camera calibrated: 6 from 6 input images.
+-- #Tracks, #3D points: 32
+-------------------------------
+
+Histogram of residuals:
+0	|	96
+0.148	|	87
+0.295	|	77
+0.443	|	52
+0.591	|	37
+0.738	|	19
+0.886	|	7
+1.03	|	2
+1.18	|	4
+1.33	|	0
+1.48
+
+RMSE residual: 0.446661
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 36SEQUENTIAL_SFM_Known_Intrinsics_Test
+
+INFO: [sequential_SfM.cpp:278] Track building
+INFO: [sequential_SfM.cpp:281] Track filtering
+INFO: [sequential_SfM.cpp:283] Track export to internal struct
+INFO: [sequential_SfM.cpp:309] 
+------------------
+-- Tracks Stats --
+ Tracks number: 32
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	32
+
+INFO: [sequential_SfM.cpp:495] Putative starting pair info:
+index:(0,1)
+view basename:(,)
+INFO: [sequential_SfM.cpp:538] Relative pose a-contrario upper_bound residual is: 2.05242
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 2
+ #poses: 2
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 128
+ Initial RMSE: 0.160433
+ Final RMSE: 0.141897
+ Time (s): 0.218295 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:648] 
+=========================
+ MSE Residual InitialPair Inlier:
+
+INFO: [sequential_SfM.cpp:733] 
+SequentialSfMReconstructionEngine::ComputeResidualsMSE.
+	-- #Tracks:	32
+	-- Residual min:	0.000546025
+	-- Residual median:	0.0561947
+	-- Residual max:	 0.540528
+	-- Residual mean:	 0.131555
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 2
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=5.62419 inliers=4/32 precisionNormalized=0.00802967 precision=89.6084 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-89.0086 inliers=28/32 precisionNormalized=3.43221e-05 precision=5.85851 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-96.9603 inliers=31/32 precisionNormalized=6.04205e-05 precision=7.77306 (iter=1 ,sample=6,15,4,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-103.549 inliers=31/32 precisionNormalized=3.50971e-05 precision=5.92428 (iter=2 ,sample=25,16,27,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-114.35 inliers=32/32 precisionNormalized=2.28494e-05 precision=4.7801 (iter=3 ,sample=26,23,1,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-117.208 inliers=31/32 precisionNormalized=1.13331e-05 precision=3.36647 (iter=6 ,sample=27,19,1,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-121.588 inliers=32/32 precisionNormalized=1.28093e-05 precision=3.57901 (iter=10 ,sample=5,6,23,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-123.435 inliers=32/32 precisionNormalized=1.10456e-05 precision=3.32349 (iter=18 ,sample=28,13,4,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-123.797 inliers=31/32 precisionNormalized=6.54232e-06 precision=2.5578 (iter=29 ,sample=31,28,18,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-125.058 inliers=32/32 precisionNormalized=9.69552e-06 precision=3.11376 (iter=36 ,sample=6,28,19,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-127.685 inliers=32/32 precisionNormalized=7.84777e-06 precision=2.80139 (iter=44 ,sample=7,13,20,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-127.838 inliers=32/32 precisionNormalized=7.75152e-06 precision=2.78415 (iter=242 ,sample=31,28,20,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 32
+-- Threshold: 2.78415
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 64
+ Initial RMSE: 0.768782
+ Final RMSE: 0.664919
+ Time (s): 0.18668 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 3
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=4.37511 inliers=20/32 precisionNormalized=0.0928021 precision=304.634 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-103.241 inliers=31/32 precisionNormalized=3.60003e-05 precision=6.00002 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-118.765 inliers=31/32 precisionNormalized=9.9572e-06 precision=3.1555 (iter=1 ,sample=11,17,27,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-119.104 inliers=31/32 precisionNormalized=9.68013e-06 precision=3.11129 (iter=6 ,sample=6,13,4,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-123.978 inliers=31/32 precisionNormalized=6.44402e-06 precision=2.53851 (iter=14 ,sample=7,23,18,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-126.362 inliers=31/32 precisionNormalized=5.27563e-06 precision=2.29687 (iter=65 ,sample=12,20,11,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-129.521 inliers=31/32 precisionNormalized=4.04144e-06 precision=2.01033 (iter=79 ,sample=14,31,10,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-131.488 inliers=31/32 precisionNormalized=3.42008e-06 precision=1.84935 (iter=278 ,sample=11,4,19,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 31
+-- Threshold: 1.84935
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 31
+ #residuals: 62
+ Initial RMSE: 0.562437
+ Final RMSE: 0.494326
+ Time (s): 0.248939 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 4
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=5.22405 inliers=15/32 precisionNormalized=0.0653528 precision=255.642 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-102.169 inliers=31/32 precisionNormalized=3.93268e-05 precision=6.27111 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-110.295 inliers=32/32 precisionNormalized=3.15731e-05 precision=5.61899 (iter=1 ,sample=4,13,23,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-115.663 inliers=32/32 precisionNormalized=2.05756e-05 precision=4.53603 (iter=3 ,sample=17,30,14,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-120.798 inliers=31/32 precisionNormalized=8.40566e-06 precision=2.89925 (iter=8 ,sample=19,23,16,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-122.884 inliers=31/32 precisionNormalized=7.06221e-06 precision=2.65748 (iter=20 ,sample=16,7,23,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-123.925 inliers=31/32 precisionNormalized=6.47274e-06 precision=2.54416 (iter=38 ,sample=28,23,21,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-124.325 inliers=31/32 precisionNormalized=6.25942e-06 precision=2.50188 (iter=74 ,sample=17,20,23,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-130.3 inliers=31/32 precisionNormalized=3.78329e-06 precision=1.94507 (iter=105 ,sample=3,9,23,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 31
+-- Threshold: 1.94507
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 31
+ #residuals: 62
+ Initial RMSE: 0.54826
+ Final RMSE: 0.517293
+ Time (s): 0.215717 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:932] -- Trying robust Resection of view: 5
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=4.97372 inliers=4/32 precisionNormalized=0.00179559 precision=42.3744 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-96.3116 inliers=32/32 precisionNormalized=9.60731e-05 precision=9.80169 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-104.911 inliers=32/32 precisionNormalized=4.84795e-05 precision=6.96272 (iter=1 ,sample=4,18,11,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-116.204 inliers=32/32 precisionNormalized=1.97051e-05 precision=4.43904 (iter=2 ,sample=31,30,8,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-118.701 inliers=32/32 precisionNormalized=1.61395e-05 precision=4.01739 (iter=11 ,sample=23,3,7,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-121.663 inliers=30/32 precisionNormalized=4.74354e-06 precision=2.17797 (iter=16 ,sample=6,26,4,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-122.053 inliers=31/32 precisionNormalized=7.56964e-06 precision=2.7513 (iter=71 ,sample=19,20,27,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-122.425 inliers=31/32 precisionNormalized=7.33812e-06 precision=2.7089 (iter=87 ,sample=27,8,30,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-126.05 inliers=31/32 precisionNormalized=5.41603e-06 precision=2.32724 (iter=266 ,sample=7,9,3,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 31
+-- Threshold: 2.32724
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 31
+ #residuals: 62
+ Initial RMSE: 0.686826
+ Final RMSE: 0.580132
+ Time (s): 0.0455853 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 380
+ Initial RMSE: 0.489584
+ Final RMSE: 0.287338
+ Time (s): 0.167397 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM.cpp:733] 
+SequentialSfMReconstructionEngine::ComputeResidualsMSE.
+	-- #Tracks:	32
+	-- Residual min:	0.00339537
+	-- Residual median:	0.290074
+	-- Residual max:	 1.41649
+	-- Residual mean:	 0.323303
+INFO: [sequential_SfM.cpp:235] 
+-------------------------------
+-- Structure from Motion (statistics):
+-- #Camera calibrated: 6 from 6 input images.
+-- #Tracks, #3D points: 32
+-------------------------------
+
+Histogram of residuals:
+0	|	112
+0.141	|	76
+0.283	|	79
+0.424	|	53
+0.565	|	34
+0.707	|	12
+0.848	|	6
+0.989	|	6
+1.13	|	1
+1.27	|	0
+1.42
+
+RMSE residual: 0.406358
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   1.30 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sequential_SfM" end time: Dec 22 22:19 KST
+"openMVG_test_sequential_SfM" time elapsed: 00:00:01
+----------------------------------------------------------
+
+82/85 Testing: openMVG_test_sequential_SfM2
+82/85 Test: openMVG_test_sequential_SfM2
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_sequential_SfM2"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm/pipelines/sequential
+"openMVG_test_sequential_SfM2" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 45SEQUENTIAL_SFM2_STELLAR_Known_Intrinsics_Test
+
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 39(ms)
+INFO: [SfmSceneInitializerStellar.cpp:140] The chosen stellar pod has 4 pairs.
+INFO: [stellar_solver.cpp:361] Stellar pod details:
+#central pose id: 0
+#pairs: 4
+#2-uplets: 6
+INFO: [stellar_definitions.hpp:70] Stellar reconstruction with center node: 0
+#relative scales: 6
+#pairs : 4
+INFO: [stellar_definitions.hpp:255] Pair: 0,1; scaling: 1
+INFO: [stellar_definitions.hpp:255] Pair: 0,2; scaling: 0.574102
+INFO: [stellar_definitions.hpp:255] Pair: 4,0; scaling: 0.575275
+INFO: [stellar_definitions.hpp:255] Pair: 5,0; scaling: 0.998851
+INFO: [sfm_data_filters.cpp:464] #point depth filter: 0 measurements removed
+INFO: [sequential_SfM2.cpp:107] Initialization status : Success
+INFO: [sequential_SfM2.cpp:214] 
+Track stats
+INFO: [sequential_SfM2.cpp:239] ------------------
+-- Tracks Stats --
+ Tracks number: 32
+ Images Id: 
+0, 1, 2, 3, 4, 5, 
+------------------
+TrackLength, Occurrence
+	6	32
+
+
+INFO: [sequential_SfM2.cpp:122] 
+
+-------------------------------
+-- Starting Structure from Motion (statistics) with:
+-- #Camera calibrated: 5 from 6 input images.
+-- #Tracks, #3D points: 32
+-------------------------------
+INFO: [sequential_SfM2.cpp:353] ViewId: 3; #number of 2D-3D matches: 32; 96.9697 % of the view track coverage.
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-30.6075 inliers=29/32 precisionNormalized=0.0092697 precision=96.2793 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-73.7945 inliers=30/32 precisionNormalized=0.000288135 precision=16.9745 (iter=0 ,sample=26,5,29,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-141.946 inliers=32/32 precisionNormalized=2.44843e-06 precision=1.56474 (iter=1 ,sample=6,13,1,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-146.759 inliers=32/32 precisionNormalized=1.63294e-06 precision=1.27787 (iter=6 ,sample=0,18,9,)
+INFO: [robust_estimator_ACRansac.hpp:440]   nfa=-148.424 inliers=32/32 precisionNormalized=1.41599e-06 precision=1.18995 (iter=357 ,sample=13,8,23,)
+INFO: [SfM_Localizer.cpp:303] 
+-------------------------------
+-- Robust Resection statistics: 
+-- Resection status: 1
+-- #Points used for Resection: 32
+-- #Points validated by robust Resection: 32
+-- Threshold: 1.18995
+-------------------------------
+INFO: [sequential_SfM2.cpp:409] 
+-------------------------------
+-- Robust Resection of camera index: <3> image: 
+-- Threshold: 1.18995
+-- Resection status: OK
+-- Nb points used for Resection: 32
+-- Nb points validated by robust estimation: 32
+-- % points validated: 100
+-------------------------------
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 1
+ #poses: 1
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 64
+ Initial RMSE: 0.357577
+ Final RMSE: 0.322164
+ Time (s): 0.000374956 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 384
+ Initial RMSE: 0.315052
+ Final RMSE: 0.289033
+ Time (s): 0.167012 
+--
+ Used motion prior: 0
+INFO: [sfm_data_BA_ceres.cpp:496] 
+Bundle Adjustment statistics (approximated RMSE):
+ #views: 6
+ #poses: 6
+ #intrinsics: 1
+ #tracks: 32
+ #residuals: 384
+ Initial RMSE: 0.289033
+ Final RMSE: 0.289033
+ Time (s): 0.0865804 
+--
+ Used motion prior: 0
+INFO: [sequential_SfM2.cpp:193] 
+-------------------------------
+-- Structure from Motion (statistics):
+-- #Camera calibrated: 6 from 6 input images.
+-- #Tracks, #3D points: 32
+-- #Poses loop used: 1
+-------------------------------
+RMSE residual: 0.408754
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_sequential_SfM2" end time: Dec 22 22:19 KST
+"openMVG_test_sequential_SfM2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/85 Testing: openMVG_test_stellar_SfM
+83/85 Test: openMVG_test_stellar_SfM
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_stellar_SfM"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/sfm/pipelines/stellar
+"openMVG_test_stellar_SfM" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 36STELLAR_SOLVER_Known_Intrinsics_Test
+
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 28(ms)
+INFO: [stellar_solver.cpp:361] Stellar pod details:
+#central pose id: 0
+#pairs: 3
+#2-uplets: 3
+INFO: [stellar_definitions.hpp:70] Stellar reconstruction with center node: 0
+#relative scales: 3
+#pairs : 3
+INFO: [stellar_definitions.hpp:255] Pair: 0,1; scaling: 1
+INFO: [stellar_definitions.hpp:255] Pair: 0,2; scaling: 0.577306
+INFO: [stellar_definitions.hpp:255] Pair: 1,2; scaling: 0.999201
+INFO: [sfm_data_filters.cpp:464] #point depth filter: 0 measurements removed
+3.17199e-05
+translation: 1.1251e-06
+1.23081e-05
+translation: 4.16249e-06
+2.44973e-05
+translation: 2.00909e-05
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 50%
+INFO: [loggerprogress.hpp:79] [- Relative pose computation -] 100%
+INFO: [relative_pose_engine.cpp:224] Relative motion computation took: 9(ms)
+INFO: [stellar_solver.cpp:361] Stellar pod details:
+#central pose id: 0
+#pairs: 2
+#2-uplets: 1
+INFO: [stellar_definitions.hpp:70] Stellar reconstruction with center node: 0
+#relative scales: 1
+#pairs : 2
+INFO: [stellar_definitions.hpp:255] Pair: 0,1; scaling: 1
+INFO: [stellar_definitions.hpp:255] Pair: 0,2; scaling: 0.577291
+INFO: [sfm_data_filters.cpp:464] #point depth filter: 0 measurements removed
+3.12729e-05
+translation: 2.38176e-06
+9.64462e-06
+translation: 5.77936e-06
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_stellar_SfM" end time: Dec 22 22:19 KST
+"openMVG_test_stellar_SfM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/85 Testing: openMVG_test_split
+84/85 Test: openMVG_test_split
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_split"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/stl
+"openMVG_test_split" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 27Split_stringSplit3part_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 25Split_delimiterExist_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 28Split_delimiterNotExist_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 22Split_stringEmpty_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_split" end time: Dec 22 22:19 KST
+"openMVG_test_split" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/85 Testing: openMVG_test_dynamic_bitset
+85/85 Test: openMVG_test_dynamic_bitset
+Command: "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/Linux-x86_64-RELEASE/openMVG_test_dynamic_bitset"
+Directory: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/openMVG/stl
+"openMVG_test_dynamic_bitset" start time: Dec 22 22:19 KST
+Output:
+----------------------------------------------------------
+
+
+ Launching Test : 34DYNAMIC_BITSET_InitAndReset_4_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+
+ Launching Test : 35DYNAMIC_BITSET_InitAndReset_64_Test
+
+
+
+ 	 TEST -> [OK]
+
+
+---------
+[TEST SESSION RESULTS]
+---------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"openMVG_test_dynamic_bitset" end time: Dec 22 22:19 KST
+"openMVG_test_dynamic_bitset" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 22 22:19 KST

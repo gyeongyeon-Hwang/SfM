@@ -1,0 +1,1631 @@
+The system is: Linux - 5.11.0-43-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fcb8d/fast && /usr/bin/make -f CMakeFiles/cmTC_fcb8d.dir/build.make CMakeFiles/cmTC_fcb8d.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_fcb8d.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_fcb8d.dir/testCCompiler.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_fcb8d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fcb8d.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_fcb8d.dir/testCCompiler.c.o  -o cmTC_fcb8d 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7521d/fast && /usr/bin/make -f CMakeFiles/cmTC_7521d.dir/build.make CMakeFiles/cmTC_7521d.dir/build
+make[1]: Entering directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccgQGgLy.s
+GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: bbf13931d8de1abe14040c9909cb6969
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o /tmp/ccgQGgLy.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_7521d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7521d.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o  -o cmTC_7521d 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7521d' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmaYhf1.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_7521d /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7521d' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+    add: [/usr/local/include]
+    add: [/usr/include/x86_64-linux-gnu]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/lib/gcc/x86_64-linux-gnu/9/include] ==> [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/lib/gcc/x86_64-linux-gnu/9/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_7521d/fast && /usr/bin/make -f CMakeFiles/cmTC_7521d.dir/build.make CMakeFiles/cmTC_7521d.dir/build]
+  ignore line: [make[1]: Entering directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccgQGgLy.s]
+  ignore line: [GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: bbf13931d8de1abe14040c9909cb6969]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o /tmp/ccgQGgLy.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_7521d]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7521d.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o  -o cmTC_7521d ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7521d' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmaYhf1.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_7521d /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccmaYhf1.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_7521d] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_7521d.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b92fe/fast && /usr/bin/make -f CMakeFiles/cmTC_b92fe.dir/build.make CMakeFiles/cmTC_b92fe.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_b92fe.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_b92fe.dir/testCXXCompiler.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_b92fe
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b92fe.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_b92fe.dir/testCXXCompiler.cxx.o  -o cmTC_b92fe 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_31600/fast && /usr/bin/make -f CMakeFiles/cmTC_31600.dir/build.make CMakeFiles/cmTC_31600.dir/build
+make[1]: Entering directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++    -v -o CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccEJ9oHz.s
+GNU C++14 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/include/c++/9
+ /usr/include/x86_64-linux-gnu/c++/9
+ /usr/include/c++/9/backward
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C++14 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 466f818abe2f30ba03783f22bd12d815
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccEJ9oHz.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_31600
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_31600.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_31600 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_31600' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuuk8gn.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_31600 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_31600' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/include/c++/9]
+    add: [/usr/include/x86_64-linux-gnu/c++/9]
+    add: [/usr/include/c++/9/backward]
+    add: [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+    add: [/usr/local/include]
+    add: [/usr/include/x86_64-linux-gnu]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/include/c++/9] ==> [/usr/include/c++/9]
+  collapse include dir [/usr/include/x86_64-linux-gnu/c++/9] ==> [/usr/include/x86_64-linux-gnu/c++/9]
+  collapse include dir [/usr/include/c++/9/backward] ==> [/usr/include/c++/9/backward]
+  collapse include dir [/usr/lib/gcc/x86_64-linux-gnu/9/include] ==> [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/include/c++/9;/usr/include/x86_64-linux-gnu/c++/9;/usr/include/c++/9/backward;/usr/lib/gcc/x86_64-linux-gnu/9/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_31600/fast && /usr/bin/make -f CMakeFiles/cmTC_31600.dir/build.make CMakeFiles/cmTC_31600.dir/build]
+  ignore line: [make[1]: Entering directory '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++    -v -o CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccEJ9oHz.s]
+  ignore line: [GNU C++14 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/include/c++/9]
+  ignore line: [ /usr/include/x86_64-linux-gnu/c++/9]
+  ignore line: [ /usr/include/c++/9/backward]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++14 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 466f818abe2f30ba03783f22bd12d815]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccEJ9oHz.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_31600]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_31600.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_31600 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_31600' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuuk8gn.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_31600 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccuuk8gn.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_31600] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_31600.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Performing C SOURCE FILE Test check_c_compiler_flag__march_skylake succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b1609/fast && /usr/bin/make -f CMakeFiles/cmTC_b1609.dir/build.make CMakeFiles/cmTC_b1609.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_b1609.dir/src.c.o
+/usr/bin/cc   -Dcheck_c_compiler_flag__march_skylake   -march=skylake -o CMakeFiles/cmTC_b1609.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_b1609
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1609.dir/link.txt --verbose=1
+/usr/bin/cc  -Dcheck_c_compiler_flag__march_skylake    CMakeFiles/cmTC_b1609.dir/src.c.o  -o cmTC_b1609 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__march_skylake succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_efb78/fast && /usr/bin/make -f CMakeFiles/cmTC_efb78.dir/build.make CMakeFiles/cmTC_efb78.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_efb78.dir/src.cxx.o
+/usr/bin/c++    -Dcheck_cxx_compiler_flag__march_skylake   -march=skylake -o CMakeFiles/cmTC_efb78.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_efb78
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_efb78.dir/link.txt --verbose=1
+/usr/bin/c++   -Dcheck_cxx_compiler_flag__march_skylake    CMakeFiles/cmTC_efb78.dir/src.cxx.o  -o cmTC_efb78 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__msse2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0dc4d/fast && /usr/bin/make -f CMakeFiles/cmTC_0dc4d.dir/build.make CMakeFiles/cmTC_0dc4d.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_0dc4d.dir/src.c.o
+/usr/bin/cc   -march=skylake -Dcheck_c_compiler_flag__msse2   -msse2 -o CMakeFiles/cmTC_0dc4d.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_0dc4d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0dc4d.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -Dcheck_c_compiler_flag__msse2    CMakeFiles/cmTC_0dc4d.dir/src.c.o  -o cmTC_0dc4d 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__msse2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a3f9b/fast && /usr/bin/make -f CMakeFiles/cmTC_a3f9b.dir/build.make CMakeFiles/cmTC_a3f9b.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_a3f9b.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -Dcheck_cxx_compiler_flag__msse2   -msse2 -o CMakeFiles/cmTC_a3f9b.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_a3f9b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3f9b.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -Dcheck_cxx_compiler_flag__msse2    CMakeFiles/cmTC_a3f9b.dir/src.cxx.o  -o cmTC_a3f9b 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__msse3 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dd2f7/fast && /usr/bin/make -f CMakeFiles/cmTC_dd2f7.dir/build.make CMakeFiles/cmTC_dd2f7.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_dd2f7.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -Dcheck_c_compiler_flag__msse3   -msse3 -o CMakeFiles/cmTC_dd2f7.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_dd2f7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd2f7.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -Dcheck_c_compiler_flag__msse3    CMakeFiles/cmTC_dd2f7.dir/src.c.o  -o cmTC_dd2f7 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__msse3 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2550d/fast && /usr/bin/make -f CMakeFiles/cmTC_2550d.dir/build.make CMakeFiles/cmTC_2550d.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_2550d.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -Dcheck_cxx_compiler_flag__msse3   -msse3 -o CMakeFiles/cmTC_2550d.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_2550d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2550d.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -Dcheck_cxx_compiler_flag__msse3    CMakeFiles/cmTC_2550d.dir/src.cxx.o  -o cmTC_2550d 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Determining if the include file pmmintrin.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2c3f0/fast && /usr/bin/make -f CMakeFiles/cmTC_2c3f0.dir/build.make CMakeFiles/cmTC_2c3f0.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_2c3f0.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -msse3    -o CMakeFiles/cmTC_2c3f0.dir/CheckIncludeFile.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTC_2c3f0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c3f0.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -msse3     CMakeFiles/cmTC_2c3f0.dir/CheckIncludeFile.cxx.o  -o cmTC_2c3f0 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Performing C SOURCE FILE Test check_c_compiler_flag__mssse3 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1b47b/fast && /usr/bin/make -f CMakeFiles/cmTC_1b47b.dir/build.make CMakeFiles/cmTC_1b47b.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_1b47b.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -Dcheck_c_compiler_flag__mssse3   -mssse3 -o CMakeFiles/cmTC_1b47b.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_1b47b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b47b.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -Dcheck_c_compiler_flag__mssse3    CMakeFiles/cmTC_1b47b.dir/src.c.o  -o cmTC_1b47b 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mssse3 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b8586/fast && /usr/bin/make -f CMakeFiles/cmTC_b8586.dir/build.make CMakeFiles/cmTC_b8586.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_b8586.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -Dcheck_cxx_compiler_flag__mssse3   -mssse3 -o CMakeFiles/cmTC_b8586.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_b8586
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8586.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -Dcheck_cxx_compiler_flag__mssse3    CMakeFiles/cmTC_b8586.dir/src.cxx.o  -o cmTC_b8586 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Determining if the include file tmmintrin.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2a8c0/fast && /usr/bin/make -f CMakeFiles/cmTC_2a8c0.dir/build.make CMakeFiles/cmTC_2a8c0.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_2a8c0.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -mssse3    -o CMakeFiles/cmTC_2a8c0.dir/CheckIncludeFile.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTC_2a8c0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a8c0.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -mssse3     CMakeFiles/cmTC_2a8c0.dir/CheckIncludeFile.cxx.o  -o cmTC_2a8c0 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Performing C SOURCE FILE Test check_c_compiler_flag__msse4_1 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_62927/fast && /usr/bin/make -f CMakeFiles/cmTC_62927.dir/build.make CMakeFiles/cmTC_62927.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_62927.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -Dcheck_c_compiler_flag__msse4_1   -msse4.1 -o CMakeFiles/cmTC_62927.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_62927
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62927.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -Dcheck_c_compiler_flag__msse4_1    CMakeFiles/cmTC_62927.dir/src.c.o  -o cmTC_62927 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__msse4_1 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_840b6/fast && /usr/bin/make -f CMakeFiles/cmTC_840b6.dir/build.make CMakeFiles/cmTC_840b6.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_840b6.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -Dcheck_cxx_compiler_flag__msse4_1   -msse4.1 -o CMakeFiles/cmTC_840b6.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_840b6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_840b6.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -Dcheck_cxx_compiler_flag__msse4_1    CMakeFiles/cmTC_840b6.dir/src.cxx.o  -o cmTC_840b6 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Determining if the include file smmintrin.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_22f30/fast && /usr/bin/make -f CMakeFiles/cmTC_22f30.dir/build.make CMakeFiles/cmTC_22f30.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_22f30.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.1    -o CMakeFiles/cmTC_22f30.dir/CheckIncludeFile.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTC_22f30
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_22f30.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.1     CMakeFiles/cmTC_22f30.dir/CheckIncludeFile.cxx.o  -o cmTC_22f30 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Performing C SOURCE FILE Test check_c_compiler_flag__msse4_2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_46ab9/fast && /usr/bin/make -f CMakeFiles/cmTC_46ab9.dir/build.make CMakeFiles/cmTC_46ab9.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_46ab9.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -Dcheck_c_compiler_flag__msse4_2   -msse4.2 -o CMakeFiles/cmTC_46ab9.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_46ab9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_46ab9.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -Dcheck_c_compiler_flag__msse4_2    CMakeFiles/cmTC_46ab9.dir/src.c.o  -o cmTC_46ab9 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__msse4_2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1e22d/fast && /usr/bin/make -f CMakeFiles/cmTC_1e22d.dir/build.make CMakeFiles/cmTC_1e22d.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_1e22d.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -Dcheck_cxx_compiler_flag__msse4_2   -msse4.2 -o CMakeFiles/cmTC_1e22d.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1e22d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e22d.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -Dcheck_cxx_compiler_flag__msse4_2    CMakeFiles/cmTC_1e22d.dir/src.cxx.o  -o cmTC_1e22d 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mavx succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_af78f/fast && /usr/bin/make -f CMakeFiles/cmTC_af78f.dir/build.make CMakeFiles/cmTC_af78f.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_af78f.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -Dcheck_c_compiler_flag__mavx   -mavx -o CMakeFiles/cmTC_af78f.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_af78f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_af78f.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -Dcheck_c_compiler_flag__mavx    CMakeFiles/cmTC_af78f.dir/src.c.o  -o cmTC_af78f 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mavx succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_98bed/fast && /usr/bin/make -f CMakeFiles/cmTC_98bed.dir/build.make CMakeFiles/cmTC_98bed.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_98bed.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -Dcheck_cxx_compiler_flag__mavx   -mavx -o CMakeFiles/cmTC_98bed.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_98bed
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98bed.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -Dcheck_cxx_compiler_flag__mavx    CMakeFiles/cmTC_98bed.dir/src.cxx.o  -o cmTC_98bed 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Determining if the include file immintrin.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9f290/fast && /usr/bin/make -f CMakeFiles/cmTC_9f290.dir/build.make CMakeFiles/cmTC_9f290.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_9f290.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mavx    -o CMakeFiles/cmTC_9f290.dir/CheckIncludeFile.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTC_9f290
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f290.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mavx     CMakeFiles/cmTC_9f290.dir/CheckIncludeFile.cxx.o  -o cmTC_9f290 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Performing C SOURCE FILE Test check_c_compiler_flag__mfma succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f21a0/fast && /usr/bin/make -f CMakeFiles/cmTC_f21a0.dir/build.make CMakeFiles/cmTC_f21a0.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_f21a0.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -Dcheck_c_compiler_flag__mfma   -mfma -o CMakeFiles/cmTC_f21a0.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_f21a0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f21a0.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -Dcheck_c_compiler_flag__mfma    CMakeFiles/cmTC_f21a0.dir/src.c.o  -o cmTC_f21a0 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mfma succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5cd8a/fast && /usr/bin/make -f CMakeFiles/cmTC_5cd8a.dir/build.make CMakeFiles/cmTC_5cd8a.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_5cd8a.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -Dcheck_cxx_compiler_flag__mfma   -mfma -o CMakeFiles/cmTC_5cd8a.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5cd8a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5cd8a.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -Dcheck_cxx_compiler_flag__mfma    CMakeFiles/cmTC_5cd8a.dir/src.cxx.o  -o cmTC_5cd8a 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mbmi2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_77d94/fast && /usr/bin/make -f CMakeFiles/cmTC_77d94.dir/build.make CMakeFiles/cmTC_77d94.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_77d94.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -Dcheck_c_compiler_flag__mbmi2   -mbmi2 -o CMakeFiles/cmTC_77d94.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_77d94
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77d94.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -Dcheck_c_compiler_flag__mbmi2    CMakeFiles/cmTC_77d94.dir/src.c.o  -o cmTC_77d94 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mbmi2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_11269/fast && /usr/bin/make -f CMakeFiles/cmTC_11269.dir/build.make CMakeFiles/cmTC_11269.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_11269.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -Dcheck_cxx_compiler_flag__mbmi2   -mbmi2 -o CMakeFiles/cmTC_11269.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_11269
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11269.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -Dcheck_cxx_compiler_flag__mbmi2    CMakeFiles/cmTC_11269.dir/src.cxx.o  -o cmTC_11269 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mavx2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4d86e/fast && /usr/bin/make -f CMakeFiles/cmTC_4d86e.dir/build.make CMakeFiles/cmTC_4d86e.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_4d86e.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -Dcheck_c_compiler_flag__mavx2   -mavx2 -o CMakeFiles/cmTC_4d86e.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_4d86e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d86e.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -Dcheck_c_compiler_flag__mavx2    CMakeFiles/cmTC_4d86e.dir/src.c.o  -o cmTC_4d86e 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mavx2 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4e48f/fast && /usr/bin/make -f CMakeFiles/cmTC_4e48f.dir/build.make CMakeFiles/cmTC_4e48f.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_4e48f.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -Dcheck_cxx_compiler_flag__mavx2   -mavx2 -o CMakeFiles/cmTC_4e48f.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_4e48f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e48f.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -Dcheck_cxx_compiler_flag__mavx2    CMakeFiles/cmTC_4e48f.dir/src.cxx.o  -o cmTC_4e48f 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_sse4a succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_845de/fast && /usr/bin/make -f CMakeFiles/cmTC_845de.dir/build.make CMakeFiles/cmTC_845de.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_845de.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -Dcheck_c_compiler_flag__mno_sse4a   -mno-sse4a -o CMakeFiles/cmTC_845de.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_845de
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_845de.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -Dcheck_c_compiler_flag__mno_sse4a    CMakeFiles/cmTC_845de.dir/src.c.o  -o cmTC_845de 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_sse4a succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8f11b/fast && /usr/bin/make -f CMakeFiles/cmTC_8f11b.dir/build.make CMakeFiles/cmTC_8f11b.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_8f11b.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -Dcheck_cxx_compiler_flag__mno_sse4a   -mno-sse4a -o CMakeFiles/cmTC_8f11b.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_8f11b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f11b.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -Dcheck_cxx_compiler_flag__mno_sse4a    CMakeFiles/cmTC_8f11b.dir/src.cxx.o  -o cmTC_8f11b 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_xop succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5c955/fast && /usr/bin/make -f CMakeFiles/cmTC_5c955.dir/build.make CMakeFiles/cmTC_5c955.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_5c955.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -Dcheck_c_compiler_flag__mno_xop   -mno-xop -o CMakeFiles/cmTC_5c955.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_5c955
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c955.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -Dcheck_c_compiler_flag__mno_xop    CMakeFiles/cmTC_5c955.dir/src.c.o  -o cmTC_5c955 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_xop succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_42062/fast && /usr/bin/make -f CMakeFiles/cmTC_42062.dir/build.make CMakeFiles/cmTC_42062.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_42062.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -Dcheck_cxx_compiler_flag__mno_xop   -mno-xop -o CMakeFiles/cmTC_42062.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_42062
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_42062.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -Dcheck_cxx_compiler_flag__mno_xop    CMakeFiles/cmTC_42062.dir/src.cxx.o  -o cmTC_42062 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_fma4 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d6781/fast && /usr/bin/make -f CMakeFiles/cmTC_d6781.dir/build.make CMakeFiles/cmTC_d6781.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_d6781.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -Dcheck_c_compiler_flag__mno_fma4   -mno-fma4 -o CMakeFiles/cmTC_d6781.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_d6781
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6781.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -Dcheck_c_compiler_flag__mno_fma4    CMakeFiles/cmTC_d6781.dir/src.c.o  -o cmTC_d6781 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_fma4 succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6ceb5/fast && /usr/bin/make -f CMakeFiles/cmTC_6ceb5.dir/build.make CMakeFiles/cmTC_6ceb5.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_6ceb5.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -Dcheck_cxx_compiler_flag__mno_fma4   -mno-fma4 -o CMakeFiles/cmTC_6ceb5.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_6ceb5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ceb5.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -Dcheck_cxx_compiler_flag__mno_fma4    CMakeFiles/cmTC_6ceb5.dir/src.cxx.o  -o cmTC_6ceb5 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512f succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dcf21/fast && /usr/bin/make -f CMakeFiles/cmTC_dcf21.dir/build.make CMakeFiles/cmTC_dcf21.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_dcf21.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -Dcheck_c_compiler_flag__mno_avx512f   -mno-avx512f -o CMakeFiles/cmTC_dcf21.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_dcf21
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dcf21.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -Dcheck_c_compiler_flag__mno_avx512f    CMakeFiles/cmTC_dcf21.dir/src.c.o  -o cmTC_dcf21 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512f succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_753f4/fast && /usr/bin/make -f CMakeFiles/cmTC_753f4.dir/build.make CMakeFiles/cmTC_753f4.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_753f4.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -Dcheck_cxx_compiler_flag__mno_avx512f   -mno-avx512f -o CMakeFiles/cmTC_753f4.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_753f4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_753f4.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -Dcheck_cxx_compiler_flag__mno_avx512f    CMakeFiles/cmTC_753f4.dir/src.cxx.o  -o cmTC_753f4 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512vl succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7d43e/fast && /usr/bin/make -f CMakeFiles/cmTC_7d43e.dir/build.make CMakeFiles/cmTC_7d43e.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_7d43e.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -Dcheck_c_compiler_flag__mno_avx512vl   -mno-avx512vl -o CMakeFiles/cmTC_7d43e.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7d43e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d43e.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -Dcheck_c_compiler_flag__mno_avx512vl    CMakeFiles/cmTC_7d43e.dir/src.c.o  -o cmTC_7d43e 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512vl succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9de38/fast && /usr/bin/make -f CMakeFiles/cmTC_9de38.dir/build.make CMakeFiles/cmTC_9de38.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_9de38.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -Dcheck_cxx_compiler_flag__mno_avx512vl   -mno-avx512vl -o CMakeFiles/cmTC_9de38.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_9de38
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9de38.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -Dcheck_cxx_compiler_flag__mno_avx512vl    CMakeFiles/cmTC_9de38.dir/src.cxx.o  -o cmTC_9de38 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512pf succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_70264/fast && /usr/bin/make -f CMakeFiles/cmTC_70264.dir/build.make CMakeFiles/cmTC_70264.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_70264.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -Dcheck_c_compiler_flag__mno_avx512pf   -mno-avx512pf -o CMakeFiles/cmTC_70264.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_70264
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70264.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -Dcheck_c_compiler_flag__mno_avx512pf    CMakeFiles/cmTC_70264.dir/src.c.o  -o cmTC_70264 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512pf succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_67ebf/fast && /usr/bin/make -f CMakeFiles/cmTC_67ebf.dir/build.make CMakeFiles/cmTC_67ebf.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_67ebf.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -Dcheck_cxx_compiler_flag__mno_avx512pf   -mno-avx512pf -o CMakeFiles/cmTC_67ebf.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_67ebf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_67ebf.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -Dcheck_cxx_compiler_flag__mno_avx512pf    CMakeFiles/cmTC_67ebf.dir/src.cxx.o  -o cmTC_67ebf 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512er succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f7d61/fast && /usr/bin/make -f CMakeFiles/cmTC_f7d61.dir/build.make CMakeFiles/cmTC_f7d61.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_f7d61.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -Dcheck_c_compiler_flag__mno_avx512er   -mno-avx512er -o CMakeFiles/cmTC_f7d61.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_f7d61
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f7d61.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -Dcheck_c_compiler_flag__mno_avx512er    CMakeFiles/cmTC_f7d61.dir/src.c.o  -o cmTC_f7d61 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512er succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e10af/fast && /usr/bin/make -f CMakeFiles/cmTC_e10af.dir/build.make CMakeFiles/cmTC_e10af.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_e10af.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -Dcheck_cxx_compiler_flag__mno_avx512er   -mno-avx512er -o CMakeFiles/cmTC_e10af.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_e10af
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e10af.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -Dcheck_cxx_compiler_flag__mno_avx512er    CMakeFiles/cmTC_e10af.dir/src.cxx.o  -o cmTC_e10af 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512cd succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6072d/fast && /usr/bin/make -f CMakeFiles/cmTC_6072d.dir/build.make CMakeFiles/cmTC_6072d.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_6072d.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -Dcheck_c_compiler_flag__mno_avx512cd   -mno-avx512cd -o CMakeFiles/cmTC_6072d.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_6072d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6072d.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -Dcheck_c_compiler_flag__mno_avx512cd    CMakeFiles/cmTC_6072d.dir/src.c.o  -o cmTC_6072d 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512cd succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7fcec/fast && /usr/bin/make -f CMakeFiles/cmTC_7fcec.dir/build.make CMakeFiles/cmTC_7fcec.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_7fcec.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -Dcheck_cxx_compiler_flag__mno_avx512cd   -mno-avx512cd -o CMakeFiles/cmTC_7fcec.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_7fcec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7fcec.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -Dcheck_cxx_compiler_flag__mno_avx512cd    CMakeFiles/cmTC_7fcec.dir/src.cxx.o  -o cmTC_7fcec 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512dq succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a35c8/fast && /usr/bin/make -f CMakeFiles/cmTC_a35c8.dir/build.make CMakeFiles/cmTC_a35c8.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_a35c8.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -Dcheck_c_compiler_flag__mno_avx512dq   -mno-avx512dq -o CMakeFiles/cmTC_a35c8.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_a35c8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a35c8.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -Dcheck_c_compiler_flag__mno_avx512dq    CMakeFiles/cmTC_a35c8.dir/src.c.o  -o cmTC_a35c8 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512dq succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_70734/fast && /usr/bin/make -f CMakeFiles/cmTC_70734.dir/build.make CMakeFiles/cmTC_70734.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_70734.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -Dcheck_cxx_compiler_flag__mno_avx512dq   -mno-avx512dq -o CMakeFiles/cmTC_70734.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_70734
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70734.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -Dcheck_cxx_compiler_flag__mno_avx512dq    CMakeFiles/cmTC_70734.dir/src.cxx.o  -o cmTC_70734 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512bw succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a5951/fast && /usr/bin/make -f CMakeFiles/cmTC_a5951.dir/build.make CMakeFiles/cmTC_a5951.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_a5951.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -Dcheck_c_compiler_flag__mno_avx512bw   -mno-avx512bw -o CMakeFiles/cmTC_a5951.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_a5951
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5951.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -Dcheck_c_compiler_flag__mno_avx512bw    CMakeFiles/cmTC_a5951.dir/src.c.o  -o cmTC_a5951 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512bw succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7e451/fast && /usr/bin/make -f CMakeFiles/cmTC_7e451.dir/build.make CMakeFiles/cmTC_7e451.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_7e451.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -Dcheck_cxx_compiler_flag__mno_avx512bw   -mno-avx512bw -o CMakeFiles/cmTC_7e451.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_7e451
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7e451.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -Dcheck_cxx_compiler_flag__mno_avx512bw    CMakeFiles/cmTC_7e451.dir/src.cxx.o  -o cmTC_7e451 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512ifma succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d82b4/fast && /usr/bin/make -f CMakeFiles/cmTC_d82b4.dir/build.make CMakeFiles/cmTC_d82b4.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_d82b4.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -Dcheck_c_compiler_flag__mno_avx512ifma   -mno-avx512ifma -o CMakeFiles/cmTC_d82b4.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_d82b4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d82b4.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -Dcheck_c_compiler_flag__mno_avx512ifma    CMakeFiles/cmTC_d82b4.dir/src.c.o  -o cmTC_d82b4 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512ifma succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_613a1/fast && /usr/bin/make -f CMakeFiles/cmTC_613a1.dir/build.make CMakeFiles/cmTC_613a1.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_613a1.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -Dcheck_cxx_compiler_flag__mno_avx512ifma   -mno-avx512ifma -o CMakeFiles/cmTC_613a1.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_613a1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_613a1.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -Dcheck_cxx_compiler_flag__mno_avx512ifma    CMakeFiles/cmTC_613a1.dir/src.cxx.o  -o cmTC_613a1 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test check_c_compiler_flag__mno_avx512vbmi succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2f38b/fast && /usr/bin/make -f CMakeFiles/cmTC_2f38b.dir/build.make CMakeFiles/cmTC_2f38b.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_2f38b.dir/src.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -Dcheck_c_compiler_flag__mno_avx512vbmi   -mno-avx512vbmi -o CMakeFiles/cmTC_2f38b.dir/src.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_2f38b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2f38b.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -Dcheck_c_compiler_flag__mno_avx512vbmi    CMakeFiles/cmTC_2f38b.dir/src.c.o  -o cmTC_2f38b 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test check_cxx_compiler_flag__mno_avx512vbmi succeeded with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d44f8/fast && /usr/bin/make -f CMakeFiles/cmTC_d44f8.dir/build.make CMakeFiles/cmTC_d44f8.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_d44f8.dir/src.cxx.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -Dcheck_cxx_compiler_flag__mno_avx512vbmi   -mno-avx512vbmi -o CMakeFiles/cmTC_d44f8.dir/src.cxx.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_d44f8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d44f8.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -Dcheck_cxx_compiler_flag__mno_avx512vbmi    CMakeFiles/cmTC_d44f8.dir/src.cxx.o  -o cmTC_d44f8 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+Source file was:
+int main() { return 0;}
+Detecting C OpenMP compiler ABI info compiled with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a36f9/fast && /usr/bin/make -f CMakeFiles/cmTC_a36f9.dir/build.make CMakeFiles/cmTC_a36f9.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v   -o CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu -D_REENTRANT /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c -quiet -dumpbase OpenMPTryFlag.c -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -auxbase-strip CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o -version -fopenmp -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/cclI8thh.s
+GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: bbf13931d8de1abe14040c9909cb6969
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread'
+ as -v --64 -o CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o /tmp/cclI8thh.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread'
+Linking C executable cmTC_a36f9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a36f9.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v    CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o  -o cmTC_a36f9  -v 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+Reading specs from /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.spec
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_a36f9' '-v' '-pthread'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/cc2auyPF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_a36f9 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o -lgomp -lgcc --push-state --as-needed -lgcc_s --pop-state -lpthread -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_a36f9' '-v' '-pthread'
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Parsed C OpenMP implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_a36f9/fast && /usr/bin/make -f CMakeFiles/cmTC_a36f9.dir/build.make CMakeFiles/cmTC_a36f9.dir/build]
+  ignore line: [make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감]
+  ignore line: [Building C object CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o]
+  ignore line: [/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v   -o CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu -D_REENTRANT /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c -quiet -dumpbase OpenMPTryFlag.c -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -auxbase-strip CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o -version -fopenmp -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/cclI8thh.s]
+  ignore line: [GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: bbf13931d8de1abe14040c9909cb6969]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o /tmp/cclI8thh.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o' '-c' '-pthread']
+  ignore line: [Linking C executable cmTC_a36f9]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a36f9.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v    CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o  -o cmTC_a36f9  -v ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [Reading specs from /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.spec]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_a36f9' '-v' '-pthread']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/cc2auyPF.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_a36f9 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o -lgomp -lgcc --push-state --as-needed -lgcc_s --pop-state -lpthread -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc2auyPF.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_a36f9] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_a36f9.dir/OpenMPTryFlag.c.o] ==> ignore
+    arg [-lgomp] ==> lib [gomp]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lpthread] ==> lib [pthread]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o] ==> ignore
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [gomp;gcc;gcc_s;pthread;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Detecting CXX OpenMP compiler ABI info compiled with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eed5f/fast && /usr/bin/make -f CMakeFiles/cmTC_eed5f.dir/build.make CMakeFiles/cmTC_eed5f.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building CXX object CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o
+/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v   -std=c++11 -o CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -auxbase-strip CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -std=c++11 -version -fopenmp -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccCQr7Ne.s
+GNU C++11 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/include/c++/9
+ /usr/include/x86_64-linux-gnu/c++/9
+ /usr/include/c++/9/backward
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C++11 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 466f818abe2f30ba03783f22bd12d815
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread'
+ as -v --64 -o CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o /tmp/ccCQr7Ne.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread'
+Linking CXX executable cmTC_eed5f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eed5f.dir/link.txt --verbose=1
+/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v    CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o  -o cmTC_eed5f  -v 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+Reading specs from /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.spec
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_eed5f' '-v' '-shared-libgcc' '-pthread'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3pcJ3E.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_eed5f /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o
+COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_eed5f' '-v' '-shared-libgcc' '-pthread'
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Parsed CXX OpenMP implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_eed5f/fast && /usr/bin/make -f CMakeFiles/cmTC_eed5f.dir/build.make CMakeFiles/cmTC_eed5f.dir/build]
+  ignore line: [make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감]
+  ignore line: [Building CXX object CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o]
+  ignore line: [/usr/bin/c++    -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v   -std=c++11 -o CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE -D_REENTRANT /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -auxbase-strip CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -std=c++11 -version -fopenmp -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccCQr7Ne.s]
+  ignore line: [GNU C++11 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/include/c++/9]
+  ignore line: [ /usr/include/x86_64-linux-gnu/c++/9]
+  ignore line: [ /usr/include/c++/9/backward]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++11 (Ubuntu 9.3.0-17ubuntu1~20.04) version 9.3.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.3.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 466f818abe2f30ba03783f22bd12d815]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o /tmp/ccCQr7Ne.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-std=c++11' '-o' 'CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-pthread']
+  ignore line: [Linking CXX executable cmTC_eed5f]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eed5f.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi -fopenmp -v    CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o  -o cmTC_eed5f  -v ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-HskZEa/gcc-9-9.3.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [Reading specs from /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.spec]
+  ignore line: [COLLECT_GCC_OPTIONS='-march=skylake' '-msse2' '-msse3' '-mssse3' '-msse4.1' '-msse4.2' '-mavx' '-mfma' '-mbmi2' '-mavx2' '-mno-sse4a' '-mno-xop' '-mno-fma4' '-mno-avx512f' '-mno-avx512vl' '-mno-avx512pf' '-mno-avx512er' '-mno-avx512cd' '-mno-avx512dq' '-mno-avx512bw' '-mno-avx512ifma' '-mno-avx512vbmi' '-fopenmp' '-v' '-o' 'cmTC_eed5f' '-v' '-shared-libgcc' '-pthread']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3pcJ3E.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_eed5f /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o /usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc3pcJ3E.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_eed5f] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_eed5f.dir/OpenMPTryFlag.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgomp] ==> lib [gomp]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtoffloadend.o] ==> ignore
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;gomp;gcc_s;gcc;pthread;c;gcc_s;gcc]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_572de/fast && /usr/bin/make -f CMakeFiles/cmTC_572de.dir/build.make CMakeFiles/cmTC_572de.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_572de.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi    -o CMakeFiles/cmTC_572de.dir/CheckIncludeFile.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_572de
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_572de.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi     -rdynamic CMakeFiles/cmTC_572de.dir/CheckIncludeFile.c.o  -o cmTC_572de 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ff6e2/fast && /usr/bin/make -f CMakeFiles/cmTC_ff6e2.dir/build.make CMakeFiles/cmTC_ff6e2.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_ff6e2.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi    -o CMakeFiles/cmTC_ff6e2.dir/CheckIncludeFile.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_ff6e2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff6e2.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi     -rdynamic CMakeFiles/cmTC_ff6e2.dir/CheckIncludeFile.c.o  -o cmTC_ff6e2 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_99598/fast && /usr/bin/make -f CMakeFiles/cmTC_99598.dir/build.make CMakeFiles/cmTC_99598.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_99598.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi    -o CMakeFiles/cmTC_99598.dir/CheckIncludeFile.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_99598
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99598.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi     -rdynamic CMakeFiles/cmTC_99598.dir/CheckIncludeFile.c.o  -o cmTC_99598 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_472db/fast && /usr/bin/make -f CMakeFiles/cmTC_472db.dir/build.make CMakeFiles/cmTC_472db.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_472db.dir/LONG_LONG.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi    -o CMakeFiles/cmTC_472db.dir/LONG_LONG.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CheckTypeSize/LONG_LONG.c
+Linking C executable cmTC_472db
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_472db.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi     -rdynamic CMakeFiles/cmTC_472db.dir/LONG_LONG.c.o  -o cmTC_472db 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b441c/fast && /usr/bin/make -f CMakeFiles/cmTC_b441c.dir/build.make CMakeFiles/cmTC_b441c.dir/build
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 들어감
+Building C object CMakeFiles/cmTC_b441c.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi    -o CMakeFiles/cmTC_b441c.dir/CheckIncludeFile.c.o   -c /home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_b441c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b441c.dir/link.txt --verbose=1
+/usr/bin/cc  -march=skylake -msse2 -msse3 -mssse3 -msse4.1 -msse4.2 -mavx -mfma -mbmi2 -mavx2 -mno-sse4a -mno-xop -mno-fma4 -mno-avx512f -mno-avx512vl -mno-avx512pf -mno-avx512er -mno-avx512cd -mno-avx512dq -mno-avx512bw -mno-avx512ifma -mno-avx512vbmi     -rdynamic CMakeFiles/cmTC_b441c.dir/CheckIncludeFile.c.o  -o cmTC_b441c 
+make[1]: 디렉터리 '/home/hgy/PycharmProjects/sfm/openMVG/openMVG_Build/CMakeFiles/CMakeTmp' 나감
+
+
+
